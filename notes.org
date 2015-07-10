@@ -1,0 +1,16 @@
+* Bookmarks
+
+** [[http://shapecatcher.com/][Shapecatcher: Draw the Unicode character you want!]] :unicode:symbol:
+:PROPERTIES:
+:CREATED: [2015-07-09 Thu 17:13]
+:END:
+
+And let shapecatcher help you to find the most similar unicode characters!
+
+** [[https://github.com/theonewolf/TermRecord][theonewolf/TermRecord]] :terminal:
+:PROPERTIES:
+:CREATED: [2015-07-09 Thu 17:20]
+:END:
+
+Terminal session recorder that outputs self-contained HTML
+

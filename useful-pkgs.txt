@@ -1,0 +1,247 @@
+aptitude-robot - Automate package choice management
+assword - Simple and secure password management and retrieval system.
+bittwist - libpcap based Ethernet packet generator
+corekeeper - enable core files and report crashes to the sysadmin
+cssmin - YUI CSS compression algorithm in Python
+debian-lan-config - FAI config space for the Debian-LAN system
+editorconfig - coding style indenter for all editors - commadline tools
+ext4magic - recover deleted files from ext3 or ext4 partitions
+fatrace - report system wide file access events
+gitolite3 - SSH-based gatekeeper for git repositories (version 3)
+ioapps - IO profiler and IO traces replayer
+isenkram - Suggest packages to install when inserting new hardware
+jq - lightweight and flexible command-line JSON processor
+live-images - live-build configurations (metapackage)
+nat-traverse - NAT gateway traversal utility
+nicstat - print network traffic statistics
+nocache - bypass/minimize file system caching for a program
+pg-activity - Realtime PostgreSQL database server monitoring tool
+pgbadger - Fast PostgreSQL log analysis report
+pgreplay - replay PostgreSQL log files
+premake4 - cross-platform build script generator
+sanewall - easy to use but powerful iptables stateful firewall (program)
+seekwatcher - utility to visualize block I/O patterns
+stdsyslog - log a program's output to the system log
+wxhexeditor - hexadecimal editor for massive files
+ecryptfs-utils - ecryptfs cryptographic filesystem (utilities)
+clang-format-3.4 - Tool to format C/C++/Obj-C code
+monkeysign - OpenPGP key signing and exchange for humans
+spl-dkms - Solaris Porting Layer kernel modules for Linux
+sssd-ipa - System Security Services Daemon -- IPA back end
+autorevision - extracts revision metadata from your VCS repository
+clog - colorizing log tail utility
+clsync - live sync tool based on inotify, written in GNU C
+codesearch - regular expression search over large bodies of source code
+core-network - intuitive network emulator that interacts with real nets (metapackage)
+criu - checkpoint and restore in userspace
+dgit - git interoperability with the Debian archive
+droopy - mini web server to let others upload files to your computer
+enhanceio-dkms - dynamic block device cache for Linux (DKMS version)
+ganeti - Cluster-based virtualization management software
+git-notifier - git commit email notification script
+git-remote-gcrypt - encrypted git repositories
+grokmirror - framework to smartly mirror git repositories
+gromit-mpx - GTK based tool to make annotations on screen with multiple pointers
+how-can-i-help - show opportunities for contributing to Debian
+ifupdown-multi - multiple default gateway support for ifupdown
+lmdb-utils - Lightning Memory-Mapped Database Utilities
+lnav - ncurses-based log file viewer
+macfanctld - fan control daemon for Apple MacBook / MacBook Pro computers
+mdpress - creation of Impress.js slideshows with Markdown
+mpv - Free and open-source general-purpose video player.
+mussort - simple tool that sorts a music collection
+nbdkit - toolkit for creating NBD servers
+needrestart - check which daemons need to be restarted after library upgrades
+olla - hack to avoid typing out full domains
+openstack-debian-images - script to build a Debian image for OpenStack
+pepperflashplugin-nonfree - Pepper Flash Player - browser plugin
+photofloat - Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript
+proot - emulate chroot, bind mount and binfmt_misc for non-root users
+pry - powerfull irb alternative and runtime developer console
+shellex - shell-based launcher
+sosreport - Set of tools to gather troubleshooting data from a system
+ssh-agent-filter - filtering proxy for ssh-agent
+stegsnow - steganography using ASCII files
+vmdebootstrap - Bootstrap Debian into a (virtual machine) disk image
+vramsteg - provide shell scripts with a full-featured progress indicator
+zbackup - Versatile deduplicating backup tool
+nxlog-ce - Modular, multi-threaded, high-performance log management solution
+pitivi - non-linear audio/video editor using GStreamer
+krb5-otp - OTP plugin for MIT Kerberos
+mk-configure - lightweight replacement for GNU autotools
+attic - deduplicating backup program
+diskscan - scan HDD/SSD for bad or near failure sectors
+awscli - Universal Command Line Environment for AWS
+bugs-everywhere - distributed bug tracking system using VCS storage
+codespell - find and fix common misspellings in text files
+converseen - batch image converter and resizer
+docker.io - Linux container runtime
+fdroidserver - F-Droid build server and repository tools for Android
+fonts-isabella - Isabella free TrueType font
+fssync - File system synchronization tool (1-way, over SSH)
+gtimelog - time logging application
+httraqt - program for downloading of internet sites
+kernelshark - Utilities for graphically analyzing function tracing in the kernel
+keyringer - Distributed secret management using GnuPG and Git
+logster - Generate metrics from logfiles for Graphite and Ganglia
+metamonger - Save, diff, and restore filesystem metadata
+netmate - netdude clone that shows pcap dump lines in network header style
+slowhttptest - application layer Denial of Service attacks simulation tool
+snapper - Linux filesystem snapshot management tool
+spiped - create secure pipes between socket addresses
+taskwarrior - feature-rich console based todo list manager
+ui-auto - Autotools library and development tools
+vim-youcompleteme - fast, as-you-type, fuzzy-search code completion engine for Vim
+whiteboard - simple collaborative text editor for the web
+zmap - network scanner for researchers
+jscommunicator-web-phone - Basic SIP video-phone web page using WebRTC
+entr - Run arbitrary commands when files change
+netscript-ipfilter - Linux 2.6/3.x iptables management system.
+newpid - run a command in a new PID namespace
+trinity - system call fuzz tester
+pgtop - PostgreSQL performance monitoring tool akin to top
+health-check - process monitoring tool
+udevil - Alternative storage media interface
+ngrok-client - secure introspectable tunnels to localhost - client part
+simple-tpm-pk11 - simple library for using the TPM chip to secure SSH keys
+speedtest-cli - Command line interface for testing internet bandwidth using speedtest.net
+nghttp2 - nghttp HTTP 2.0 servers
+slt - TLS reverse-proxy with SNI multiplexing (TLS virtual hosts)
+git-merge-changelog - git merge driver for GNU ChangeLog files
+qjoypad - Program for mapping gamepad/joystick events to mouse/keyboard event
+salt-cloud - public cloud VM management system
+arriero - Simplifies management of several Debian packages
+cgroupfs-mount - Light-weight package to set up cgroupfs mounts
+forkstat - process fork/exec/exit monitoring tool
+light-locker - simple screen locker for lightDM display manager
+syslog-ng-mod-elasticsearch - Enhanced system logging daemon (ElasticSearch plugin)
+designate - OpenStack DNS as a Service - metapackage
+fotoxx - easy-to-use digital photo editor
+gatling - high performance web server and file server
+sysdig - system-level exploration and troubleshooting tool
+propellor - property-based host configuration management in haskell
+netfilter-persistent - boot-time loader for netfilter configuration
+whatmaps - Find processes mapping shared objects
+key2odp - Keynote to OpenDocument converter
+ndiff - The Network Mapper - result compare utiltiy
+rsyslog-elasticsearch - Elasticsearch output plugin for rsyslog
+tgt - Linux SCSI target user-space daemon and tools
+livestreamer - CLI that pipes video streams to video players
+knot - authoritative domain name server
+airspy - Tiny and efficient software defined radio receiver
+ceph-dkms - Ceph FS and RBD Linux kernel drivers (DKMS version)
+direnv - Utility to set directory specific environment variables
+dms - bind9 DNS Management System, master server meta-package
+libnss-wrapper - NSS wrapper library
+python-bash8 - bash script style guide checker - Python 2.x
+snetz - simple live network bandwidth monitoring tool
+stress-ng - tool to load and stress a computer
+munin-node-c - C rewrite of Munin node
+dhcpy6d - MAC address aware DHCPv6 server written in Python
+hello-traditional - example package not using any helper package
+idlestat - measure CPU time in idle and operating states
+shellcheck - lint tool for shell scripts
+syslog-nagios-bridge - Syslog to Nagios integration
+heartbleeder - test servers for OpenSSL CVE-2014-0160 aka Heartbleed
+screenfetch - Bash Screenshot Information Tool
+powerline - ultimate statusline/prompt utility
+meson - high-productivity build system
+postgresql-9.3-reorg - reorganize tables in PostgreSQL databases without any locks
+python-rarfile - RAR archive reader module for Python (python 2)
+s3curl - Easily interact with AWS S3 HTTP services
+tcpflow-nox - TCP flow recorder - version without X11 dependencies
+guncat - Catenates files while decrypting PGP-encrypted sections
+abduco - terminal session manager
+apachedex - Compute APDEX from Apache-style logs
+icinga2 - host and network monitoring system
+ntopng - High-Speed Web-based Traffic Analysis and Flow Collection Tool
+pcredz - Extracts authentication credentials from network captures
+git-remote-hg - bidirectional bridge between Git and Mercurial
+libuid-wrapper - UID wrapper library
+xxdiff - graphical file/directory comparison and merge tool
+cgmanager - Central cgroup manager daemon
+git-reintegrate - Git extension to manage integration branches
+lilyterm - Light and eazy-to-use terminal emulator for X
+tiptop - performance monitoring tool for Linux
+flowgrind - Distributed network performance measurement tool
+subliminal - Command-line tool to search and download subtitles
+yowsup-cli - command line tool that acts as WhatsApp client
+gstreamer1.0-vaapi - VA-API plugins for GStreamer
+lua-elektra - elektra configuration store, Lua bindings
+ssh-cron - cron daemon allowing ssh keys with passphrases to be used
+ghp-import - Easily import docs to your gh-pages branch
+monitoring-plugins-standard - Plugins for nagios compatible monitoring systems (standard)
+tcpcryptd - Opportunistically encrypt network transport
+shc - Generic shell script compiler
+datamash - statistics tool for command-line interface
+freeipmi-ipmiseld - GNU IPMI - IPMI node detection tool
+fireqos - easy to use but powerful traffic shaping tool (program)
+air-quality-sensor - user space driver for AppliedSensor's Indoor Air Monitor
+android-permissions - create gids that represent Android permissions
+apt-transport-s3 - APT transport for privately held AWS S3 repositories
+aptly - Swiss army knife for Debian repository management
+auto6to4 - Enable IPv6 via IPv4 protocol 41 tunnel
+bareos - Backup Archiving Recovery Open Sourced - metapackage
+bcache-tools - bcache userspace tools
+bootstrap-vz - Software for creating Debian images for use in public or private clouds
+capstats - command-line tool for collecting network interface statistics
+cleo - Play back shell commands for live demonstrations
+cputool - Utility which manages CPU usage and system load
+debbindiff - highlight differences between two builds of Debian packages
+debdry - Semi-assisted automatic Debian packaging
+dtc-core - web control panel for admin and accounting hosting services (fewer depends)
+elasticsearch - Open Source, Distributed, RESTful Search Engine
+elementary-theme - Official elementary GTK+ theme
+enhanceio - dynamic block device cache for Linux (user space utility)
+fig - Punctual, lightweight development environments using Docker
+fireqos - easy to use but powerful traffic shaping tool (program)
+freeipa-server - FreeIPA centralized identity framework -- server
+git-buildpackage-rpm - Suite to help with RPM packages in Git repositories
+gitinspector - statistical analysis tool for git repositories
+goldeneye - HTTP DoS test tool
+gpaste - Clipboard management system for GNOME
+haproxyctl - Utility to manage HAProxy
+i3blocks - highly flexible status line for the i3 window manager
+iperf3 - Internet Protocol bandwidth measuring tool
+jarisplayer - flash video and audio player for embedding into a web page
+karlyriceditor - Karaoke lyrics editor
+lastpass-cli - command line interface to LastPass.com
+mwc - Powerful website-tracking tool
+mysecureshell - SFTP Server with ACL
+neopi - web shell code detection
+nfct - Tool to interact with the connection tracking system
+nield - generate logs related to network interfaces
+nutcracker - Fast, light-weight proxy for memcached and Redis
+obsession - Session management helpers for lightweight desktop environments
+olla - hack to avoid typing out full domains
+pdf2htmlex - Converts PDF to HTML while retaining most formatting
+perf-tools-unstable - DTrace-like tools for Linux
+phabricator - Software engineering platform
+phototonic - image viewer and organizer
+pidcat - Colored adb logcat that shows entries for specific apps
+pki-ca - Certificate System - Certificate Authority
+plank - Elegant, simple, clean dock
+plowshare4 - Download and upload files from file sharing websites
+qmenu - Tool to create simple menus for terminal interfaces
+qtop - windowed version of the console top command
+rr - application execution recorder, player and debugger
+rsbackup - rsync-based backup utility
+shinken - Flexible monitoring tool - Meta-package
+usbrelay - USB HID relay driver
+xss-lock - invoke external screen lock in response to XScreenSaver events
+dbab - dnsmasq-based ad-blocking using pixelserv
+sysdig - system-level exploration and troubleshooting tool
+mina - deployer and server automation tool
+debian-installer-8-netboot-amd64 - Debian-installer network boot images for amd64
+git-big-picture - Visualization tool for Git repositories
+bro - passive network traffic analyzer
+fnotifystat - file activity monitoring tool
+sluice - rate limiting data piping tool
+homesick - keep your dotfiles (configs) in git
+presentty - Console-based presentation software
+tlp - Save battery power on laptops
+dnscrypt-proxy - Tool for securing communications between a client and a DNS resolver
+deheader - Find and remove unnecessary includes in C or C++ source files
+ksmtuned - enables and tunes Kernel Samepage Merging
+live-image-rescue - Live System Image Components (rescue)
+ldap-git-backup - Back up LDAP database in an Git repository
