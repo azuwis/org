@@ -14,3 +14,10 @@ And let shapecatcher help you to find the most similar unicode characters!
 
 Terminal session recorder that outputs self-contained HTML
 
+** [[https://www.yworks.com/en/products/yfiles/yed/][yEd - Graph Editor]]
+:PROPERTIES:
+:CREATED: [2015-07-10 Fri 17:37]
+:END:
+
+yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+
