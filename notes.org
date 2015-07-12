@@ -1,3 +1,9 @@
+* Notes
+
+** SystemD manage tmp files
+
+systemd-tmpfiles /usr/lib/tmpfiles.d
+
 * Bookmarks
 
 ** [[http://shapecatcher.com/][Shapecatcher: Draw the Unicode character you want!]] :unicode:symbol:
@@ -20,4 +26,33 @@ Terminal session recorder that outputs self-contained HTML
 :END:
 
 yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+
+** [[https://lttng.org/][LTTng: an open source tracing framework for Linux]] :performance:
+:PROPERTIES:
+:CREATED: [2015-07-12 Sun 16:06]
+:END:
+
+** [[https://github.com/akiradeveloper/dm-writeboost/blob/master/doc/dm-writeboost-readme.txt][dm-writeboost/dm-writeboost-readme.txt at master · akiradeveloper/dm-writeboost]] :kernel:disk:cache:
+:PROPERTIES:
+:CREATED: [2015-07-12 Sun 21:57]
+:END:
+
+dm-writeboost target provides block-level log-structured caching.
+All cache data, writes and reads, are written to the cache device in sequential
+manner.
+
+dm-writeboost controls three different layers - RAM buffer (rambuf), cache
+device (cache_dev, e.g SSD) and backing device (backing_dev, e.g. HDD).
+All data are first stored in the RAM buffer and when the RAM buffer is full,
+dm-writeboost adds metadata block (with checksum) on the RAM buffer to create a
+"log". Afterward, the log is written to the cache device as background
+processing in sequential manner and thereafter it's written back to the backing
+device in background as well.
+
+** [[http://prometheus.io/][Prometheus]] :monitoring:
+:PROPERTIES:
+:CREATED: [2015-07-12 Sun 22:47]
+:END:
+
+An open-source service monitoring system and time series database.
 

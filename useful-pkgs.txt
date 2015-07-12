@@ -245,3 +245,12 @@ deheader - Find and remove unnecessary includes in C or C++ source files
 ksmtuned - enables and tunes Kernel Samepage Merging
 live-image-rescue - Live System Image Components (rescue)
 ldap-git-backup - Back up LDAP database in an Git repository
+blkreplay - block device testing and benchmarking toolkit
+btrbk - backup tool for btrfs volumes
+cruft-ng - program that finds any cruft built up on your system
+dm-writeboost-dkms - log-structured caching for Linux
+doublecmd-gtk - twin-panel (commander-style) file manager (GTK2)
+edid-decode - Decodes to text the binary EDID information from monitors
+physlock - lightweight Linux console locking tool
+prometheus - Monitoring system and time series database
+sddm - modern display manager for X11
