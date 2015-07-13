@@ -56,3 +56,10 @@ device in background as well.
 
 An open-source service monitoring system and time series database.
 
+** [[http://artofmonitoring.com/][The Art of Monitoring]]
+:PROPERTIES:
+:CREATED: [2015-07-13 Mon 17:15]
+:END:
+
+A simple hands-on introductory book on the art of modern infrastructure monitoring and metrics.
+
