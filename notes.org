@@ -63,3 +63,10 @@ An open-source service monitoring system and time series database.
 
 A simple hands-on introductory book on the art of modern infrastructure monitoring and metrics.
 
+** [[https://conemu.github.io/][ConEmu - Handy Windows Terminal]]
+:PROPERTIES:
+:CREATED: [2015-07-14 Tue 16:59]
+:END:
+
+ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
+
