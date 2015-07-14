@@ -25,7 +25,8 @@ Terminal session recorder that outputs self-contained HTML
 :CREATED: [2015-07-10 Fri 17:37]
 :END:
 
-yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+yEd is a powerful desktop application that can be used to quickly and
+effectively generate high-quality diagrams.
 
 ** [[https://lttng.org/][LTTng: an open source tracing framework for Linux]] :performance:
 :PROPERTIES:
@@ -37,13 +38,12 @@ yEd is a powerful desktop application that can be used to quickly and effectivel
 :CREATED: [2015-07-12 Sun 21:57]
 :END:
 
-dm-writeboost target provides block-level log-structured caching.
-All cache data, writes and reads, are written to the cache device in sequential
-manner.
+dm-writeboost target provides block-level log-structured caching. All cache
+data, writes and reads, are written to the cache device in sequential manner.
 
 dm-writeboost controls three different layers - RAM buffer (rambuf), cache
-device (cache_dev, e.g SSD) and backing device (backing_dev, e.g. HDD).
-All data are first stored in the RAM buffer and when the RAM buffer is full,
+device (cache_dev, e.g SSD) and backing device (backing_dev, e.g. HDD). All data
+are first stored in the RAM buffer and when the RAM buffer is full,
 dm-writeboost adds metadata block (with checksum) on the RAM buffer to create a
 "log". Afterward, the log is written to the cache device as background
 processing in sequential manner and thereafter it's written back to the backing
@@ -61,12 +61,15 @@ An open-source service monitoring system and time series database.
 :CREATED: [2015-07-13 Mon 17:15]
 :END:
 
-A simple hands-on introductory book on the art of modern infrastructure monitoring and metrics.
+A simple hands-on introductory book on the art of modern infrastructure
+monitoring and metrics.
 
 ** [[https://conemu.github.io/][ConEmu - Handy Windows Terminal]]
 :PROPERTIES:
 :CREATED: [2015-07-14 Tue 16:59]
 :END:
 
-ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
+ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple
+consoles and simple GUI applications as one customizable GUI window with various
+features.
 
