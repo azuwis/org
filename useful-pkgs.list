@@ -254,3 +254,5 @@ edid-decode - Decodes to text the binary EDID information from monitors
 physlock - lightweight Linux console locking tool
 prometheus - Monitoring system and time series database
 sddm - modern display manager for X11
+gocode - Go autocompletion daemon
+ycmd - code-completion & comprehension server
