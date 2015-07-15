@@ -64,7 +64,7 @@ An open-source service monitoring system and time series database.
 A simple hands-on introductory book on the art of modern infrastructure
 monitoring and metrics.
 
-** [[https://conemu.github.io/][ConEmu - Handy Windows Terminal]]
+** [[https://conemu.github.io/][ConEmu - Handy Windows Terminal]] :windows:
 :PROPERTIES:
 :CREATED: [2015-07-14 Tue 16:59]
 :END:
