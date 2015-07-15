@@ -73,7 +73,7 @@ ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple
 consoles and simple GUI applications as one customizable GUI window with various
 features.
 
-** [[https://babun.github.io/screenshots.html][Babun - a windows shell you will love!]]
+** [[https://babun.github.io/][Babun - a windows shell you will love!]]
 :PROPERTIES:
 :CREATED: [2015-07-15 Wed 15:07]
 :END:
