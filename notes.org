@@ -73,3 +73,17 @@ ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple
 consoles and simple GUI applications as one customizable GUI window with various
 features.
 
+** [[https://babun.github.io/screenshots.html][Babun - a windows shell you will love!]]
+:PROPERTIES:
+:CREATED: [2015-07-15 Wed 15:07]
+:END:
+
+** [[http://forums.debian.net/viewtopic.php?f%3D10&t%3D122188][GRUB menu disappeared after booting Windows 8.1]]
+:PROPERTIES:
+:CREATED: [2015-07-15 Wed 15:37]
+:END:
+
+#+BEGIN_SRC 
+bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
+#+END_SRC
+
