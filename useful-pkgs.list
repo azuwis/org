@@ -256,3 +256,4 @@ prometheus - Monitoring system and time series database
 sddm - modern display manager for X11
 gocode - Go autocompletion daemon
 ycmd - code-completion & comprehension server
+gobby - infinote-based collaborative text editor
