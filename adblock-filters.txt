@@ -1,0 +1,3 @@
+||translate.google.com^$domain=youku.com
+en.wikipedia.org###centralNotice
+en.wikipedia.org###frbanner-main
