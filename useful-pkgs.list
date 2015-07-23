@@ -259,3 +259,6 @@ ycmd - code-completion & comprehension server
 gobby - infinote-based collaborative text editor
 boomaga - virtual printer for viewing a document before printing
 ffdiaporama - Movie creator from photos and video clips
+tmate - terminal multiplexer with instant terminal sharing
+plantuml - text-to-UML converter
+signify-openbsd - Lightweight cryptographic signing and verifying tool

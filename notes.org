@@ -87,3 +87,10 @@ features.
 bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
 #+END_SRC
 
+** [[https://landscape.io/][Landscape :: Hosted continuous Python code metrics]]
+:PROPERTIES:
+:CREATED: [2015-07-20 Mon 09:56]
+:END:
+
+Landscape is an early warning system for your Python codebase
+
