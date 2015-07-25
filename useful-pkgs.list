@@ -263,3 +263,8 @@ tmate - terminal multiplexer with instant terminal sharing
 plantuml - text-to-UML converter
 signify-openbsd - Lightweight cryptographic signing and verifying tool
 bandit - Security oriented static analyzer for python code
+hhvm - HipHop Virtual Machine, a JIT replacement for PHP - main runtime
+info-beamer - interactive multimedia presentation framework
+tarantool-lts - In-memory database with Lua application server
+treesheets - Data organizer that covers spreadsheets, mind mappers, and small databases
+xserver-xspice - Xspice X server
