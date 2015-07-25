@@ -262,3 +262,4 @@ ffdiaporama - Movie creator from photos and video clips
 tmate - terminal multiplexer with instant terminal sharing
 plantuml - text-to-UML converter
 signify-openbsd - Lightweight cryptographic signing and verifying tool
+bandit - Security oriented static analyzer for python code
