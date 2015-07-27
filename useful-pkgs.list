@@ -268,3 +268,4 @@ info-beamer - interactive multimedia presentation framework
 tarantool-lts - In-memory database with Lua application server
 treesheets - Data organizer that covers spreadsheets, mind mappers, and small databases
 xserver-xspice - Xspice X server
+paexec - execute tasks in parallel
