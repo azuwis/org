@@ -269,3 +269,9 @@ tarantool-lts - In-memory database with Lua application server
 treesheets - Data organizer that covers spreadsheets, mind mappers, and small databases
 xserver-xspice - Xspice X server
 paexec - execute tasks in parallel
+debootstick - Turn a chroot environment into a bootable image
+glueviz - Linked data visualization
+linssid - graphical wireless scanner
+reboot-notifier - daily reboot notification mailer
+sigil - multi-platform ebook editor
+wrk - HTTP benchmarking tool
