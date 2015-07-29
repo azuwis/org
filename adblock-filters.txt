@@ -1,3 +1,4 @@
 ||translate.google.com^$domain=youku.com
 en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
+tieba.baidu.com###guide_fc

@@ -275,3 +275,6 @@ linssid - graphical wireless scanner
 reboot-notifier - daily reboot notification mailer
 sigil - multi-platform ebook editor
 wrk - HTTP benchmarking tool
+cdist - Usable Configuration Management System
+ipmiutil - IPMI management utilities
+xia - Convert svg to html5 interactive pictures
