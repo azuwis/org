@@ -278,3 +278,5 @@ wrk - HTTP benchmarking tool
 cdist - Usable Configuration Management System
 ipmiutil - IPMI management utilities
 xia - Convert svg to html5 interactive pictures
+apacheds - Apache Directory Server
+thefuck - spelling corrector of console commands
