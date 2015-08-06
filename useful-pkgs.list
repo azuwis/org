@@ -280,3 +280,5 @@ ipmiutil - IPMI management utilities
 xia - Convert svg to html5 interactive pictures
 apacheds - Apache Directory Server
 thefuck - spelling corrector of console commands
+jeepyb - tools for managing gerrit projects and external sources
+darkradiant - Level design toolchain for DOOM3 and The Dark Mod
