@@ -94,3 +94,10 @@ bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
 
 Landscape is an early warning system for your Python codebase
 
+** [[https://code.google.com/p/firmware-mod-kit/][firmware-mod-kit - Modify firmware images without recompiling! - Google Project Hosting]]
+:PROPERTIES:
+:CREATED: [2015-08-12 Wed 10:04]
+:END:
+
+This kit is a collection of scripts and utilities to extract and rebuild linux based firmware images.
+

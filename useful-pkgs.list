@@ -282,3 +282,8 @@ apacheds - Apache Directory Server
 thefuck - spelling corrector of console commands
 jeepyb - tools for managing gerrit projects and external sources
 darkradiant - Level design toolchain for DOOM3 and The Dark Mod
+git-crypt - Transparent file encryption in git
+caffeine - prevent the desktop becoming idle in full-screen mode
+diffoscope - in-depth comparison of files, archives, and directories
+dspdfviewer - Dual-Screen PDF Viewer for LaTeX-beamer
+power-calibrate - processor power calibration tool
