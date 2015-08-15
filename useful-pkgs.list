@@ -287,3 +287,14 @@ caffeine - prevent the desktop becoming idle in full-screen mode
 diffoscope - in-depth comparison of files, archives, and directories
 dspdfviewer - Dual-Screen PDF Viewer for LaTeX-beamer
 power-calibrate - processor power calibration tool
+axel - light command line download accelerator
+cedar-backup3 - local and remote backups to CD/DVD media or Amazon S3 storage
+check-all-the-things - check all of the things!
+gbutils - utilities for command line econometrics
+influxdb - Scalable datastore for metrics, events, and real-time analytics
+nuxwdog - Watchdog server -- daemon
+sshcommand - turn SSH into a thin client specifically for your command
+toxiproxy - proxy to simulate network and system conditions
+rerun - tool to launch commands and restart them on filesystem changes
+xwrited - display write and wall messages as desktop notifications
+fonts-babelstone-han - BabelStone Fonts for Han
