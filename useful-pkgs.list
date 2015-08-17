@@ -298,3 +298,8 @@ toxiproxy - proxy to simulate network and system conditions
 rerun - tool to launch commands and restart them on filesystem changes
 xwrited - display write and wall messages as desktop notifications
 fonts-babelstone-han - BabelStone Fonts for Han
+virtualbox-ext-pack - support for USB 2.0 devices, VirtualBox RDP and PXE boot for Intel cards
+duc - high-performance disk usage analyzer
+tlsh-tools - compare similar files using fuzzy hashing
+unison2.40.102 - file-synchronization tool for Unix and Windows
+diaspora - distributed social networking service
