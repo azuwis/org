@@ -101,3 +101,10 @@ Landscape is an early warning system for your Python codebase
 
 This kit is a collection of scripts and utilities to extract and rebuild linux based firmware images.
 
+** [[https://icomoon.io/][Icon Font & SVG Icon Sets ❍ IcoMoon]]
+:PROPERTIES:
+:CREATED: [2015-08-20 Thu 09:56]
+:END:
+
+Custom built and crisp icon fonts, done right
+

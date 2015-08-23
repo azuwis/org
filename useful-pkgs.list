@@ -305,3 +305,4 @@ unison2.40.102 - file-synchronization tool for Unix and Windows
 diaspora - distributed social networking service
 debocker - docker-powered package builder for Debian
 ori - peer-to-peer distributed file system
+lua-any - helper script for shebang lines in Lua scripts
