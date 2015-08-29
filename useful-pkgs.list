@@ -306,3 +306,7 @@ diaspora - distributed social networking service
 debocker - docker-powered package builder for Debian
 ori - peer-to-peer distributed file system
 lua-any - helper script for shebang lines in Lua scripts
+backintime-qt4 - simple backup/snapshot system (graphical interface)
+systemd-container - systemd container/nspawn tools
+systemd-journal-remote - tools for sending and receiving remote journal logs
+cpustat - periodic cpu utilization statistics
