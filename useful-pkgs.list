@@ -310,3 +310,4 @@ backintime-qt4 - simple backup/snapshot system (graphical interface)
 systemd-container - systemd container/nspawn tools
 systemd-journal-remote - tools for sending and receiving remote journal logs
 cpustat - periodic cpu utilization statistics
+numad - User-level daemon that monitors NUMA topology and usage
