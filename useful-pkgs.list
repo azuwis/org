@@ -311,3 +311,9 @@ systemd-container - systemd container/nspawn tools
 systemd-journal-remote - tools for sending and receiving remote journal logs
 cpustat - periodic cpu utilization statistics
 numad - User-level daemon that monitors NUMA topology and usage
+progress - Coreutils Progress Viewer (formerly known as 'cv')
+likwid - toolsuite for performance oriented programmers
+actiona - emulate human activity through a powerful GUI and JavaScript
+lua-check - static analyzer and a linter for the Lua language
+yadifa - Internet Domain Name Server
+gb - the project based build tool for Go
