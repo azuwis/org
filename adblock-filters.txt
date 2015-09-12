@@ -3,3 +3,4 @@ en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
 tieba.baidu.com###guide_fc
 yts.to##.main-content > .hidden-xs[href="/ad/seedbox"]
+www.hotslogs.com###advertisementBanner
