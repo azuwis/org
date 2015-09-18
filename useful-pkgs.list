@@ -319,3 +319,5 @@ yadifa - Internet Domain Name Server
 gb - the project based build tool for Go
 jenkins-debian-glue - Jenkins Debian glue scripts
 rawdns - raw DNS interface to the Docker API
+prospector - comprehensive static Python code analyzer
+golint - Linter for Go source code

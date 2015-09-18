@@ -108,3 +108,49 @@ This kit is a collection of scripts and utilities to extract and rebuild linux b
 
 Custom built and crisp icon fonts, done right
 
+** [[https://dba.stackexchange.com/questions/27328/how-large-should-be-mysql-innodb-buffer-pool-size][innodb - How large should be mysql innodb_buffer_pool_size? - Database Administrators Stack Exchange]] :mysql:
+:PROPERTIES:
+:CREATED: [2015-09-16 Wed 17:38]
+:END:
+
+Here is what you should do. First run this query
+
+SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
+(SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
+FROM information_schema.tables WHERE engine='InnoDB') A;
+
+This will give you the RIBPS, Recommended InnoDB Buffer Pool Size based on all InnoDB Data and Indexes with an additional 60%.
+
+For Example
+
+mysql>     SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
+    ->     (SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
+    ->     FROM information_schema.tables WHERE engine='InnoDB') A;
++-------+
+| RIBPS |
++-------+
+|     8 |
++-------+
+1 row in set (4.31 sec)
+
+mysql>
+
+With this output, you would set the following in /etc/my.cnf
+
+[mysqld]
+innodb_buffer_pool_size=8G
+
+Next, service mysql restart
+
+After the restart, run mysql for a week or two. Then, run this query:
+
+SELECT (PagesData*PageSize)/POWER(1024,3) DataGB FROM
+(SELECT variable_value PagesData
+FROM information_schema.global_status
+WHERE variable_name='Innodb_buffer_pool_pages_data') A,
+(SELECT variable_value PageSize
+FROM information_schema.global_status
+WHERE variable_name='Innodb_page_size') B;
+
+This will give you how many actual pages of InnoDB data reside in the InnoDB Buffer Pool.
+
