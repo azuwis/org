@@ -321,3 +321,7 @@ jenkins-debian-glue - Jenkins Debian glue scripts
 rawdns - raw DNS interface to the Docker API
 prospector - comprehensive static Python code analyzer
 golint - Linter for Go source code
+linuxbrew-wrapper - Missing Package Manager For Linux
+numatop - NUMA runtime observation tool
+vulture - scans for unused ("dead") code in a Python program
+ansiweather - Weather in your terminal, with ANSI colors and Unicode symbols
