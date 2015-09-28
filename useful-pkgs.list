@@ -325,3 +325,6 @@ linuxbrew-wrapper - Missing Package Manager For Linux
 numatop - NUMA runtime observation tool
 vulture - scans for unused ("dead") code in a Python program
 ansiweather - Weather in your terminal, with ANSI colors and Unicode symbols
+amber - Elegant HTML templating engine for Go, inspired from HAML and Jade (CLI tool)
+reposurgeon - Tool for editing version-control repository history
+rows - common, beautiful interface to tabular data, no matter the format
