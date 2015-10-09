@@ -1,1 +1,2 @@
+youtube_dl
 -e git+https://github.com/darknessomi/musicbox.git

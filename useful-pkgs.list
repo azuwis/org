@@ -328,3 +328,7 @@ ansiweather - Weather in your terminal, with ANSI colors and Unicode symbols
 amber - Elegant HTML templating engine for Go, inspired from HAML and Jade (CLI tool)
 reposurgeon - Tool for editing version-control repository history
 rows - common, beautiful interface to tabular data, no matter the format
+minica - super micro binary to issue new CAs
+ratt - Rebuild All The Things!
+restricted-ssh-commands - Restrict SSH users to a predefined set of commands
+debomatic - automatic build machine for Debian source packages

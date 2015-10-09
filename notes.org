@@ -154,3 +154,8 @@ WHERE variable_name='Innodb_page_size') B;
 
 This will give you how many actual pages of InnoDB data reside in the InnoDB Buffer Pool.
 
+** [[https://leucos.github.io/articles/transparent-vault-revisited/][Transparent encryption with ansible vault revisited – Random stuff]]
+:PROPERTIES:
+:CREATED: [2015-10-08 Thu 11:04]
+:END:
+
