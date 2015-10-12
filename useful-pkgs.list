@@ -332,3 +332,5 @@ minica - super micro binary to issue new CAs
 ratt - Rebuild All The Things!
 restricted-ssh-commands - Restrict SSH users to a predefined set of commands
 debomatic - automatic build machine for Debian source packages
+plotnetcfg - local networking configuration diagram plotter
+pond - forward secure, asynchronous messaging for the discerning
