@@ -334,3 +334,7 @@ restricted-ssh-commands - Restrict SSH users to a predefined set of commands
 debomatic - automatic build machine for Debian source packages
 plotnetcfg - local networking configuration diagram plotter
 pond - forward secure, asynchronous messaging for the discerning
+netstress - utility designed to stress and benchmark network activity
+wordgrinder-ncurses - simple word processor for writing first drafts (terminal version)
+testssl.sh - Command line tool to check TLS/SSL ciphers, protocols and cryptographic flaws
+yadm - Yet Another Dotfiles Manager
