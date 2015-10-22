@@ -338,3 +338,13 @@ netstress - utility designed to stress and benchmark network activity
 wordgrinder-ncurses - simple word processor for writing first drafts (terminal version)
 testssl.sh - Command line tool to check TLS/SSL ciphers, protocols and cryptographic flaws
 yadm - Yet Another Dotfiles Manager
+go-mtpfs - Mount MTP devices over FUSE
+hitch - scalable TLS proxy
+ricochet-im - anonymous metadata-resistant instant messaging
+yank - interactively select and yank terminal output to stdout or xsel
+fonts-octicons - GitHub's icons font
+pompem - automate the search for exploits in various databases
+qlipper - Lightweight and cross-platform clipboard history applet
+qterminal - QT-based multitab terminal emulator
+denyhosts - Utility to help sys admins thwart SSH crackers
+lximage-qt - Image viewer for LXQt
