@@ -348,3 +348,7 @@ qlipper - Lightweight and cross-platform clipboard history applet
 qterminal - QT-based multitab terminal emulator
 denyhosts - Utility to help sys admins thwart SSH crackers
 lximage-qt - Image viewer for LXQt
+fastd - Fast and Secure Tunneling Daemon
+forensics-colorize - show differences between files using color graphics
+speedpad - ncurses tool to test, train, and increase typing speed
+docker-registry - Docker toolset to pack, ship, store, and deliver content
