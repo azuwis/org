@@ -352,3 +352,4 @@ fastd - Fast and Secure Tunneling Daemon
 forensics-colorize - show differences between files using color graphics
 speedpad - ncurses tool to test, train, and increase typing speed
 docker-registry - Docker toolset to pack, ship, store, and deliver content
+serf - Service orchestration and management tool
