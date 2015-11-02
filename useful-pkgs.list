@@ -353,3 +353,7 @@ forensics-colorize - show differences between files using color graphics
 speedpad - ncurses tool to test, train, and increase typing speed
 docker-registry - Docker toolset to pack, ship, store, and deliver content
 serf - Service orchestration and management tool
+ktap - lightweight script-based dynamic tracing tool for Linux
+zgen - Lightweight plugin manager for ZSH inspired by Antigen
+notary - a tool for running and interacting with trusted collections
+fleet - distributed init system using systemd and etcd
