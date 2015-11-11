@@ -357,3 +357,8 @@ ktap - lightweight script-based dynamic tracing tool for Linux
 zgen - Lightweight plugin manager for ZSH inspired by Antigen
 notary - a tool for running and interacting with trusted collections
 fleet - distributed init system using systemd and etcd
+screengrab - Crossplatform tool for getting screenshots
+systemd-docker - wrapper for "docker run" to handle systemd quirks
+conman - serial console management program
+s3fs - FUSE-based file system backed by Amazon S3
+cadvisor - analyze resource usage and performance characteristics of running containers
