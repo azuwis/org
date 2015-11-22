@@ -362,3 +362,10 @@ systemd-docker - wrapper for "docker run" to handle systemd quirks
 conman - serial console management program
 s3fs - FUSE-based file system backed by Amazon S3
 cadvisor - analyze resource usage and performance characteristics of running containers
+kore - Fast SPDY capable web server for web development in C
+borgbackup - deduplicating and compressing backup program
+diffoscope - in-depth comparison of files, archives, and directories
+clitest - performs automatic testing in command lines
+intel-cmt-cat - Intel cache monitoring and allocation technology config tool
+sx - Scalable public and private cloud storage
+miller - name-indexed data processing tool
