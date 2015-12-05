@@ -369,3 +369,15 @@ clitest - performs automatic testing in command lines
 intel-cmt-cat - Intel cache monitoring and allocation technology config tool
 sx - Scalable public and private cloud storage
 miller - name-indexed data processing tool
+pseudo - advanced tool for simulating superuser privileges
+mycli - CLI for MySQL/MariaDB
+s-nail - feature-rich BSD mail(1)
+tuptime - report historical system running time.
+pgcli - CLI for Postgres
+s3backer - Amazon AWS S3-backed virtual hard disk device
+tj3 - project management software, aka TaskJuggler
+hovercraft - generator for impress.js presentations from reStructuredText
+caffeine - prevent the desktop becoming idle in full-screen mode
+elki - Data mining algorithm development framework
+bumpversion - Version-bump your software with a single command
+tmuxinator - Create and manage tmux sessions easily
