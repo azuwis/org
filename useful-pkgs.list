@@ -382,3 +382,6 @@ elki - Data mining algorithm development framework
 bumpversion - Version-bump your software with a single command
 tmuxinator - Create and manage tmux sessions easily
 ocserv - OpenConnect VPN server compatible with Cisco AnyConnect VPN
+tryton-server - Tryton Application Platform (Server)
+syslog-summary - summarize the contents of a syslog log file
+buzztrax - Modular music composer
