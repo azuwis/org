@@ -1,6 +1,7 @@
-||translate.google.com^$domain=youku.com
+docs.ansible.com###menu-id > center > a[href^="http://www.ansible.com/tower"]
+docs.ansible.com##.wy-grid-for-nav > .wy-nav-content-wrap > .wy-nav-content > .rst-content > .DocSiteBanner[href^="http://www.ansible.com/tower"]
 en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
 tieba.baidu.com###guide_fc
-yts.to##.main-content > .hidden-xs[href="/ad/seedbox"]
 www.hotslogs.com###advertisementBanner
+||translate.google.com^$domain=youku.com

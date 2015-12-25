@@ -385,3 +385,4 @@ ocserv - OpenConnect VPN server compatible with Cisco AnyConnect VPN
 tryton-server - Tryton Application Platform (Server)
 syslog-summary - summarize the contents of a syslog log file
 buzztrax - Modular music composer
+letsencrypt - Let's Encrypt main client
