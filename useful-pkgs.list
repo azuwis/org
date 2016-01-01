@@ -388,3 +388,15 @@ buzztrax - Modular music composer
 letsencrypt - Let's Encrypt main client
 pypi2deb - PyPI to Debian converter
 webcamoid - full featured webcam capture application
+apt-show-source - Shows source-package information
+taskd - Synchronisation server for taskwarrior
+taskwarrior - feature-rich console based todo list manager
+cryptol - domain-specific language of cryptography
+postgresql-9.4-mimeo - specialized, per-table replication between PostgreSQL instances
+tails-installer - Installer for the Tails live operating system
+dex - generate and execute Application type .desktop files
+iprange - optimizing ipsets for iptables
+jailer - Builds and maintains chrooted environments
+udiskie - automounter for removable media for Python
+corebird - Native Gtk+ Twitter client for the Linux desktop
+linux-grsec-base - Linux image base package, grsec featureset
