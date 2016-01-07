@@ -400,3 +400,6 @@ jailer - Builds and maintains chrooted environments
 udiskie - automounter for removable media for Python
 corebird - Native Gtk+ Twitter client for the Linux desktop
 linux-grsec-base - Linux image base package, grsec featureset
+abi-tracker - visualize ABI changes of a C/C++ library
+disque - In-memory, distributed message broker
+btfs - access torrent files as a filesystem
