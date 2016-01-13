@@ -403,3 +403,8 @@ linux-grsec-base - Linux image base package, grsec featureset
 abi-tracker - visualize ABI changes of a C/C++ library
 disque - In-memory, distributed message broker
 btfs - access torrent files as a filesystem
+knockpy - Python tool designed to enumerate subdomains on a target domain
+pagemon - interactive memory/page monitoring tool
+hugo - Fast and flexible Static Site Generator written in Go
+nomacs - image viewer with capability of syncing multiple instances
+dhcpstarv - DHCP starvation utility
