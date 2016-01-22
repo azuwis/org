@@ -408,3 +408,7 @@ pagemon - interactive memory/page monitoring tool
 hugo - Fast and flexible Static Site Generator written in Go
 nomacs - image viewer with capability of syncing multiple instances
 dhcpstarv - DHCP starvation utility
+ctop - Command line / text based Linux Containers monitoring tool
+ioprocess - Slave process to perform risky IO
+freelan - Peer-to-peer virtual private network daemon
+mdp - command-line based Markdown presentation tool
