@@ -416,3 +416,5 @@ klaus - simple easy-to-set-up Git web viewer
 shairport-sync - AirPlay audio player
 complexity - tool for analyzing the complexity of C program functions
 slurmd - SLURM compute node daemon
+lios - Linux intelligent OCR solution
+mysql-sandbox - Install and set up one or more MySQL server instances easily
