@@ -421,3 +421,5 @@ mysql-sandbox - Install and set up one or more MySQL server instances easily
 ruby-reek - Code smell detector for Ruby
 fgallery - static HTML+JavaScript photo album generator
 nordlicht - create colorful video barcodes
+asciiart - command line tool to turn images into ASCII art
+zstd - fast lossless compression algorithm -- CLI tool
