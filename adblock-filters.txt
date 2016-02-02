@@ -2,6 +2,8 @@ docs.ansible.com###menu-id > center > a[href^="http://www.ansible.com/tower"]
 docs.ansible.com##.wy-grid-for-nav > .wy-nav-content-wrap > .wy-nav-content > .rst-content > .DocSiteBanner[href^="http://www.ansible.com/tower"]
 en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
+movie.douban.com###dale_movie_tag_bottom_super_banner_frame
+movie.douban.com###dale_movie_tag_top_right_frame
 tieba.baidu.com###guide_fc
 www.hotslogs.com###advertisementBanner
 ||translate.google.com^$domain=youku.com
