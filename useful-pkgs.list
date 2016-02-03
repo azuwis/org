@@ -423,3 +423,4 @@ fgallery - static HTML+JavaScript photo album generator
 nordlicht - create colorful video barcodes
 asciiart - command line tool to turn images into ASCII art
 zstd - fast lossless compression algorithm -- CLI tool
+todotxt-cli - simple and extensible shell script for managing your todo.txt
