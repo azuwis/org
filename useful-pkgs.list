@@ -425,3 +425,9 @@ asciiart - command line tool to turn images into ASCII art
 zstd - fast lossless compression algorithm -- CLI tool
 todotxt-cli - simple and extensible shell script for managing your todo.txt
 astute - Deployment Orchestrator of Puppet via MCollective
+circus - process & socket manager. It can be used to monitor and control
+erlang-luerl - implementation of Lua in Erlang
+fuel-nailgun-agent - collects a server’s hardware information and submits it
+libpam-ssh-agent-auth - PAM Authentication via forwarded ssh-agent
+nitroshare - Cross-platform network file transfer application
+wiredtiger - high performance, scalable, NoSQL, extensible platform for data management
