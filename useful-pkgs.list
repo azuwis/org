@@ -431,3 +431,12 @@ fuel-nailgun-agent - collects a server’s hardware information and submits it
 libpam-ssh-agent-auth - PAM Authentication via forwarded ssh-agent
 nitroshare - Cross-platform network file transfer application
 wiredtiger - high performance, scalable, NoSQL, extensible platform for data management
+icingaweb2 - simple and responsive web interface for Icinga
+img2pdf - Lossless conversion of raster images to PDF
+kea-dhcp4-server - ISC KEA IPv4 DHCP server
+maybe - control filesystem modifications before they occur
+opensips - very fast and configurable SIP server
+pgcharts - turn your PostgreSQL queries into charts
+wimtools - Tools for manipulating Windows Imaging files
+eviacam - webcam based mouse emulator
+fim - a scriptable frame buffer and ascii art image viewer
