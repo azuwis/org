@@ -440,3 +440,6 @@ pgcharts - turn your PostgreSQL queries into charts
 wimtools - Tools for manipulating Windows Imaging files
 eviacam - webcam based mouse emulator
 fim - a scriptable frame buffer and ascii art image viewer
+dnsdist - DNS loadbalancer
+grafana - feature rich metrics dashboard and graph editor
+sen - Terminal user interface for docker engine
