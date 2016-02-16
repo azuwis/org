@@ -443,3 +443,4 @@ fim - a scriptable frame buffer and ascii art image viewer
 dnsdist - DNS loadbalancer
 grafana - feature rich metrics dashboard and graph editor
 sen - Terminal user interface for docker engine
+xkcdpass - secure passphrase generator inspired by XKCD 936
