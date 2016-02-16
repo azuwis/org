@@ -165,3 +165,33 @@ This will give you how many actual pages of InnoDB data reside in the InnoDB Buf
 :END:
 
 This page explains how to have a laptop first Suspend to RAM then after a some time save state to disk and power off completely.
+
+** [[https://glandium.org/blog/?p=3631][glandium.org » Blog Archive » SSH through jump hosts, revisited]]
+   :PROPERTIES:
+   :CREATED:  [2016-02-16 Tue 14:18]
+   :END:
+
+ SSH through jump hosts, revisited
+
+ Close to 7 years ago, I wrote about SSH through jump hosts. Twice. While the method used back then still works, Openssh has grown an new option in version 5.3 that allows it to be simplified a bit, by not using nc.
+
+ So here is an updated rule, version 2016:
+
+     Host *+*
+     ProxyCommand ssh -W $(echo %h | sed 's/^.*+//;s/^\([^:]*$\)/\1:22/') $(echo %h | sed 's/+[^+]*$//;s/\([^+%%]*\)%%\([^+]*\)$/\2 -l \1/;s/:\([^:+]*\)$/ -p \1/')
+
+ The syntax you can use to connect through jump hosts hasn’t changed compared to previous blog posts:
+
+     With one jump host:
+
+         $ ssh login1%host1:port1+host2:port2 -l login2
+
+     With two jump hosts:
+
+         $ ssh login1%host1:port1+login2%host2:port2+host3:port3 -l login3
+
+     With three jump hosts:
+
+         $ ssh login1%host1:port1+login2%host2:port2+login3%host3:port3+host4:port4 -l login4
+
+     etc.
