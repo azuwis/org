@@ -444,3 +444,6 @@ dnsdist - DNS loadbalancer
 grafana - feature rich metrics dashboard and graph editor
 sen - Terminal user interface for docker engine
 xkcdpass - secure passphrase generator inspired by XKCD 936
+androguard - full Python tool to play with Android files
+gplaycli - Google Play downloader command line interface
+phantomjs - minimalistic headless WebKit-based with JavaScript API
