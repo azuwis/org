@@ -195,3 +195,55 @@ This page explains how to have a laptop first Suspend to RAM then after a some t
          $ ssh login1%host1:port1+login2%host2:port2+login3%host3:port3+host4:port4 -l login4
 
      etc.
+
+** [[https://unix.stackexchange.com/questions/58117/determine-xinput-device-manufacturer-and-model][xorg - Determine xinput device manufacturer and model? - Unix & Linux Stack Exchange]]
+   :PROPERTIES:
+   :CREATED:  [2016-02-19 Fri 14:39]
+   :END:
+
+ Device Product Name (Model)
+
+ Get the xinput device Product Name (or model) using xinput list. Example output might look something like this:
+
+ # xinput list
+ ⎡ Virtual core pointer                      id=2  [master pointer  (3)]
+ ⎜   ↳ Virtual core XTEST pointer                id=4  [slave  pointer  (2)]
+ ⎜   ↳ ELAN Touchscreen                          id=10 [slave  pointer  (2)]
+ ⎜   ↳ SynPS/2 Synaptics TouchPad                id=13 [slave  pointer  (2)]
+ ⎜   ↳ Logitech Unifying Device. Wireless        id=16 [slave  pointer  (2)]
+ ⎣ Virtual core keyboard                     id=3  [master keyboard (2)]
+     ↳ Virtual core XTEST keyboard               id=5  [slave  keyboard (3)]
+     ↳ Power Button                              id=6  [slave  keyboard (3)]
+     ↳ Video Bus                                 id=7  [slave  keyboard (3)]
+     ↳ AT Translated Set 2 keyboard              id=12 [slave  keyboard (3)]
+
+ In the above output, the model or product name for the Touchscreen device is "ELAN Touchscreen".
+ Device Path (Node)
+
+ To get the xinput device Vendor Name (or manufacturer), we need to know the device Path (also called Device Node) to query, and then ask udevadm info. You can get the path by listing the xinput properties for a device and finding the 'Device Node' value.
+
+ From our previous example the Device Node value for the Touchscreen, which says it has id=10, could be found like this:
+
+ # xinput list-props 10 | grep 'Device Node'
+     Device Node (253):    "/dev/input/event9"
+
+ Device Vendor Name (Manufacturer)
+
+ Now we can get the xinput device Vendor Name (or manufacturer) by looking at the value for the VENDOR property returned by udevadm info for the device with our path name found above:
+
+ # udevadm info --query=property --name=/dev/input/event9 | grep 'VENDOR='
+ ID_VENDOR=ELAN
+
+ In the output above, the manufacturer or vendor name for the Touchscreen would be "ELAN".
+ XOrg Configuration
+
+ Putting it all together, we can create a new XOrg configuration InputClass Section to match specific device vendors, products or paths. Using our previous examples, this section matches any Touchscreen Product manufactured by the ELAN Vendor:
+
+ Section "InputClass"
+     Identifier "elan touchscreen catchall"
+     MatchDevicePath "/dev/input/event*"
+     MatchProduct "Touchscreen"
+     MatchVendor "ELAN"
+ EndSection
+
+ Thanks to @Stéphane, @Daniel and @ManuelSchneid3r
