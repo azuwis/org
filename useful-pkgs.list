@@ -448,3 +448,6 @@ androguard - full Python tool to play with Android files
 gplaycli - Google Play downloader command line interface
 phantomjs - minimalistic headless WebKit-based with JavaScript API
 topmenu-gtk2 - Topmenu GTK+ (GTK2 module)
+diamond - smart data producer for Graphite graphing package
+fcitx-imlist - Command-line utility to switch list of Fcitx IM
+fonts-hanazono - Japanese TrueType mincho font by KAGE system and FontForge
