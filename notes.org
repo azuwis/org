@@ -247,3 +247,28 @@ This page explains how to have a laptop first Suspend to RAM then after a some t
  EndSection
 
  Thanks to @Stéphane, @Daniel and @ManuelSchneid3r
+
+** [[http://noone.org/blog/English/Computer/Debian/CoolTools/Showing%2520packages%2520newer%2520than%2520in%2520archive%2520with%2520aptitude.html][Blogging is futile — Showing packages newer than in archive with aptitude]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-07 Mon 10:03]
+   :END:
+
+** [[http://noone.org/blog/English/Computer/Debian/CoolTools/Showing%2520packages%2520newer%2520than%2520in%2520archive%2520with%2520aptitude.html][Blogging is futile — Showing packages newer than in archive with aptitude]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-07 Mon 10:04]
+   :END:
+
+And after some playing around I found the following working aptitude search
+term:
+
+    ~i ?any-version(!~O.) !~U !~o
+
+This matches all packages which are installed and which have a version which has
+no origin, i.e. no associated APT repository. Since this also matches all hold
+packages as well as all packages not available in any archive, I use !~U !~o to
+exclude those packages from that list again.
+
+Since nobody can remember that nor wants to type that everytime needed, I added
+the following alias to my setup:
+
+    alias aptitude-newer-than-in-archive='aptitude -o "Aptitude::Pkg-Display-Limit=~i ?any-version(!~O.) !~U !~o"'

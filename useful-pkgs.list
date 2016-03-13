@@ -453,3 +453,9 @@ fcitx-imlist - Command-line utility to switch list of Fcitx IM
 fonts-hanazono - Japanese TrueType mincho font by KAGE system and FontForge
 ftpbackup - Script to backups your data from a Debian server to a ftp space
 dnsvi - edit dynamic DNS zones using vi
+diaspora - distributed social networking service
+yamllint - A linter for YAML files
+acme-tiny - letsencrypt tiny Python client
+flake8 - code checker using pep8 and pyflakes
+firejail - sandbox to restrict the application environment
+ocrmypdf - add an OCR text layer to PDF files
