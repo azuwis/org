@@ -459,3 +459,10 @@ acme-tiny - letsencrypt tiny Python client
 flake8 - code checker using pep8 and pyflakes
 firejail - sandbox to restrict the application environment
 ocrmypdf - add an OCR text layer to PDF files
+consul - tool for service discovery, monitoring and configuration
+gcstar - Manage your collections of movies, games, books, music and more
+git-build-recipe - construct a Git branch from a recipe
+spip - website engine for publishing
+hexcompare - utility to compare and identify binary files
+jo - command-line processor to output JSON from a shell
+linux-image-grsec-amd64 - Linux image meta-package, grsec featureset

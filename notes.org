@@ -272,3 +272,19 @@ Since nobody can remember that nor wants to type that everytime needed, I added
 the following alias to my setup:
 
     alias aptitude-newer-than-in-archive='aptitude -o "Aptitude::Pkg-Display-Limit=~i ?any-version(!~O.) !~U !~o"'
+
+** [[https://github.com/nodejs/node-v0.x-archive/issues/3613][Connections closed by node stay permanently in FIN_WAIT2 · Issue #3613 · nodejs/node-v0.x-archive - Mozilla Firefox]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-15 Tue 14:23]
+   :END:
+
+ "When programming sockets in C, it’s useful to know an important difference
+ between the shutdown (either READ or WRITE) and close of a socket. Shutting
+ down the socket will cause the connection to go into the FIN_WAIT2 state while
+ the TCP/IP stack waits for the connection to be closed at the other end of the
+ connection. But if the other side doesn’t shutdown/close the connection, then
+ the connection will remain in the FIN_WAIT2 state indefinitly (assuming of
+ course that your process hasn’t been terminated). If your process where to
+ close the connection, rather than call shutdown on it, then the connection will
+ fall into FIN_WAIT2 as before, however, the TCP/IP stack will time the
+ connection out after a certain period."
