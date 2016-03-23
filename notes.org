@@ -303,3 +303,18 @@ the following alias to my setup:
  only once. GRUB loads the entry passed in the first command line argument, when
  the system is rebooted the next time. Most importantly GRUB returns to loading
  the default entry for all future booting.
+
+** [[https://www.reddit.com/r/i3wm/comments/3y3nvp/bindkey_only_for_specific_windows/][Bindkey only for specific window(s) : i3wm]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-19 Sat 08:53]
+   :END:
+
+ Starting with the next release of i3 (or the current development version - if
+ you are feeling adventurous) the following construct should do the trick:
+
+     bindsym Escape [con_id=__focused__ title="Messenger"] nop
+
+ If multiple criteria are given, all of them have to match. In this case the
+ con_id has to match the ID of the current window - meaning it matches only the
+ focused window - and title has to match "Messenger".
+
