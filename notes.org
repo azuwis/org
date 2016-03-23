@@ -250,11 +250,6 @@ This page explains how to have a laptop first Suspend to RAM then after a some t
 
 ** [[http://noone.org/blog/English/Computer/Debian/CoolTools/Showing%2520packages%2520newer%2520than%2520in%2520archive%2520with%2520aptitude.html][Blogging is futile — Showing packages newer than in archive with aptitude]]
    :PROPERTIES:
-   :CREATED:  [2016-03-07 Mon 10:03]
-   :END:
-
-** [[http://noone.org/blog/English/Computer/Debian/CoolTools/Showing%2520packages%2520newer%2520than%2520in%2520archive%2520with%2520aptitude.html][Blogging is futile — Showing packages newer than in archive with aptitude]]
-   :PROPERTIES:
    :CREATED:  [2016-03-07 Mon 10:04]
    :END:
 
@@ -288,3 +283,23 @@ the following alias to my setup:
  close the connection, rather than call shutdown on it, then the connection will
  fall into FIN_WAIT2 as before, however, the TCP/IP stack will time the
  connection out after a certain period."
+
+** [[https://bugs.mysql.com/bug.php?id=79185][MySQL Bugs: #79185: Innodb freeze running REPLACE statements - Mozilla Firefox]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-18 Fri 15:11]
+   :END:
+
+ After upgrading from 5.5.44 to 5.5.46 we have found our database server
+ repeatedly freezing.
+
+** [[https://wiki.archlinux.org/index.php/GRUB/Tips_and_tricks#Boot_non-default_entry_only_once][GRUB/Tips and tricks - ArchWiki]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-22 Tue 15:35]
+   :END:
+
+ Boot non-default entry only once
+
+ The command grub-reboot is very helpful to boot another entry than the default
+ only once. GRUB loads the entry passed in the first command line argument, when
+ the system is rebooted the next time. Most importantly GRUB returns to loading
+ the default entry for all future booting.
