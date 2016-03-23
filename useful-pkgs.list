@@ -466,3 +466,5 @@ spip - website engine for publishing
 hexcompare - utility to compare and identify binary files
 jo - command-line processor to output JSON from a shell
 linux-image-grsec-amd64 - Linux image meta-package, grsec featureset
+dumb-init - wrapper script which proxies signals to a child
+linux-cpupower - CPU frequency and voltage scaling tools for Linux
