@@ -471,3 +471,4 @@ linux-cpupower - CPU frequency and voltage scaling tools for Linux
 cronic - Bash script for wrapping cron jobs to prevent excess email sending
 git-phab - Git subcommand to integrate with Phabricator.
 xiccd - X color management daemon
+open-infrastructure-container-tools - Tools to manage systemd-nspawn containers
