@@ -472,3 +472,5 @@ cronic - Bash script for wrapping cron jobs to prevent excess email sending
 git-phab - Git subcommand to integrate with Phabricator.
 xiccd - X color management daemon
 open-infrastructure-container-tools - Tools to manage systemd-nspawn containers
+mesa-va-drivers - Mesa VA-API video acceleration drivers
+setpriv - tool to run a program with different Linux privilege settings

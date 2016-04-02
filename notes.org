@@ -318,3 +318,10 @@ the following alias to my setup:
  con_id has to match the ID of the current window - meaning it matches only the
  focused window - and title has to match "Messenger".
 
+** [[http://www.openmediavault.org/about.html][About | Openmediavault]]
+   :PROPERTIES:
+   :CREATED:  [2016-03-29 Tue 11:17]
+   :END:
+
+ OpenMediaVault is the next generation network attached storage (NAS) solution
+ based on Debian Linux.
