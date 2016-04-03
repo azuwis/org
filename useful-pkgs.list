@@ -474,3 +474,4 @@ xiccd - X color management daemon
 open-infrastructure-container-tools - Tools to manage systemd-nspawn containers
 mesa-va-drivers - Mesa VA-API video acceleration drivers
 setpriv - tool to run a program with different Linux privilege settings
+pythonpy - 'python -c', with tab completion and shorthand
