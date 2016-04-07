@@ -477,3 +477,4 @@ setpriv - tool to run a program with different Linux privilege settings
 pythonpy - 'python -c', with tab completion and shorthand
 daemonize - tool to run a command as a daemon
 howdoi - command line tool for instant coding answers
+moreutils - additional Unix utilities
