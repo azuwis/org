@@ -3,4 +3,10 @@
 set -e
 
 lb config noauto \
+  --clean \
+  --archive-areas "main contrib non-free" \
+  --apt-recommends false \
+  --firmware-chroot true \
+  --mirror-bootstrap http://ftp.cn.debian.org/debian/ \
+  --mirror-binary http://ftp.cn.debian.org/debian/ \
 	"${@}"
