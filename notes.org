@@ -325,3 +325,21 @@ the following alias to my setup:
 
  OpenMediaVault is the next generation network attached storage (NAS) solution
  based on Debian Linux.
+
+** [[https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox][Browser Toolbox - Firefox Developer Tools | MDN]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-10 Sun 00:47]
+   :END:
+
+ The Browser Toolbox enables you to debug add-ons and the browser's own
+ JavaScript code rather than just web pages like the normal Toolbox. The Browser
+ Toolbox's context is the whole browser rather than just single page on a single
+ tab.
+
+ Open the Developer Tools Toolbox's Settings, go to the section "Advanced
+ Settings", and check the settings "Enable browser chrome and add-on debugging
+ toolboxes" and "Enable remote debugging".
+
+ From Firefox 39, you can also open it with the Ctrl + Alt +Shift + I key
+ combination ( Cmd + Opt +Shift + I on a Mac).
+
