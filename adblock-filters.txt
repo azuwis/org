@@ -1,5 +1,5 @@
-docs.ansible.com###menu-id > center > a[href^="http://www.ansible.com/tower"]
-docs.ansible.com##.wy-grid-for-nav > .wy-nav-content-wrap > .wy-nav-content > .rst-content > .DocSiteBanner[href^="http://www.ansible.com/tower"]
+docs.ansible.com###menu-id > center > a[href^="http://www.ansible.com/docs-left"]
+docs.ansible.com##.DocSiteBanner
 en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
 tieba.baidu.com###guide_fc
