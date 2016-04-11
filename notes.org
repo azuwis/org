@@ -343,3 +343,13 @@ the following alias to my setup:
  From Firefox 39, you can also open it with the Ctrl + Alt +Shift + I key
  combination ( Cmd + Opt +Shift + I on a Mac).
 
+** [[http://jupyter.org/][Project Jupyter | Home]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-10 Sun 09:15]
+   :END:
+
+ The Jupyter Notebook is a web application that allows you to create and share
+ documents that contain live code, equations, visualizations and explanatory
+ text. Uses include: data cleaning and transformation, numerical simulation,
+ statistical modeling, machine learning and much more.
+
