@@ -479,3 +479,7 @@ daemonize - tool to run a command as a daemon
 howdoi - command line tool for instant coding answers
 moreutils - additional Unix utilities
 arch-test - detect architectures supported by your machine/kernel
+ostree - content-addressed filesystem for operating system binaries
+ratbagd - D-Bus daemon handling mouse configuration
+rkt - CLI for running App Containers
+winrm - tool for remote command execution on Windows machines
