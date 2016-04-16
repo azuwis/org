@@ -353,3 +353,27 @@ the following alias to my setup:
  text. Uses include: data cleaning and transformation, numerical simulation,
  statistical modeling, machine learning and much more.
 
+** [[https://unbound.net/pipermail/unbound-users/2014-October/003583.html][{Unbound-users} Modifying answer with the Python API]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-14 Thu 15:51]
+   :END:
+
+In unbound.conf:
+
+  private-address: ::/0
+  private-domain:  iptvf.jp
+  private-domain:  flets-east.jp
+
+returns no AAAA unless query name is iptvf.jp or flets-east.jp.
+
+Note that it also removes AAAA from IPv6(AAAA)-only domain name.
+This is slighly differs from BIND9's AAAA-filter's behavior.
+
+** [[http://openwisp.org/whatis.html][OpenWISP: OpenWRT Controller, public wifi, RADIUS, mesh networks]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-14 Thu 16:26]
+   :END:
+
+ OpenWISP is a software platform that can be used to implement a complete Wi-Fi
+ service.
+
