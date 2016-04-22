@@ -483,3 +483,10 @@ ostree - content-addressed filesystem for operating system binaries
 ratbagd - D-Bus daemon handling mouse configuration
 rkt - CLI for running App Containers
 winrm - tool for remote command execution on Windows machines
+facedetect - simple face detector for batch processing
+hledger - command-line double-entry accounting program
+arch-test - detect architectures supported by your machine/kernel
+diveintopython3 - book for learning Python 3
+gitinspector - statistical analysis tool for git repositories
+luksipc - LUKS in-place conversion tool
+winrmcp - tool for copying files to remote Windows machines using WinRM
