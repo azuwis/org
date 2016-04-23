@@ -377,3 +377,14 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
  OpenWISP is a software platform that can be used to implement a complete Wi-Fi
  service.
 
+** [[https://wiki.openwrt.org/doc/howto/sqm#a_little_about_tuning_sqm][Smart Queue Management (SQM) - Minimizing Bufferbloat {OpenWrt Wiki}]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-24 Sun 01:02]
+   :END:
+
+ Bufferbloat is most evident when the link is heavily loaded. It causes bad
+ performance for voice and video conversations, causes gamers to lag out, and
+ generally makes people say, "The Internet is slow today."
+
+ The "luci-app-sqm" package of modern OpenWrt solves the problem of Bufferbloat.
+
