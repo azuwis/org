@@ -493,3 +493,5 @@ winrmcp - tool for copying files to remote Windows machines using WinRM
 reclass - hierarchical inventory backend for configuration management systems
 ipfm - a bandwidth analysis tool
 ipwatchd - IP conflict detection tool
+codecrypt - post-quantum encryption and signing tool
+fteproxy - programmable proxy for censorship circumvention
