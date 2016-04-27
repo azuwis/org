@@ -495,3 +495,6 @@ ipfm - a bandwidth analysis tool
 ipwatchd - IP conflict detection tool
 codecrypt - post-quantum encryption and signing tool
 fteproxy - programmable proxy for censorship circumvention
+dislocker - read/write encrypted BitLocker volumes
+libnanomsg4 - high-performance implementation of scalability libraries
+niceshaper - Dynamic Traffic Shaper
