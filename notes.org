@@ -388,3 +388,12 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
 
  The "luci-app-sqm" package of modern OpenWrt solves the problem of Bufferbloat.
 
+** [[http://luci.subsignal.org/~jow/reghack/README.txt][Reghack]]
+   :PROPERTIES:
+   :CREATED:  [2016-04-28 Thu 09:51]
+   :END:
+   
+   The reghack utility replaces the regulatory domain rules in the driver
+   binaries with less restrictive ones. The current version also lifts the 5GHz
+   radar channel restrictions in ath9k.
+

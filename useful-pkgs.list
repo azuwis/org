@@ -498,3 +498,4 @@ fteproxy - programmable proxy for censorship circumvention
 dislocker - read/write encrypted BitLocker volumes
 libnanomsg4 - high-performance implementation of scalability libraries
 niceshaper - Dynamic Traffic Shaper
+packer - tool for creating machine images for multiple platforms
