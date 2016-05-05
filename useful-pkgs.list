@@ -500,3 +500,4 @@ libnanomsg4 - high-performance implementation of scalability libraries
 niceshaper - Dynamic Traffic Shaper
 packer - tool for creating machine images for multiple platforms
 ghi - GitHub issue tracker command line interface (CLI)
+pyinfra - state based and programmable server deployment tool
