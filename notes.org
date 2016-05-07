@@ -397,3 +397,13 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    binaries with less restrictive ones. The current version also lifts the 5GHz
    radar channel restrictions in ath9k.
 
+** [[https://github.com/Fizzadar/pyinfra][Fizzadar/pyinfra: Deploy stuff by diff-ing the state you want against the remote server]]
+   :PROPERTIES:
+   :CREATED:  [2016-05-06 Fri 16:38]
+   :END:
+
+   pyinfra automates service deployment. It does this by diff-ing the state of
+   the server with the state defined in the deploy script. Deploys are
+   asyncronous and highly performant. The inventory & deploy are managed with
+   pure Python, allowing for near-infinite extendability.
+

@@ -502,3 +502,5 @@ packer - tool for creating machine images for multiple platforms
 ghi - GitHub issue tracker command line interface (CLI)
 pyinfra - state based and programmable server deployment tool
 debian-security-support - Debian security support coverage checker
+qtile - Small, simple, extensible X11 window manager written in Python
+mypy - Optional static typing for Python
