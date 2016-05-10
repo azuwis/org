@@ -407,3 +407,16 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    asyncronous and highly performant. The inventory & deploy are managed with
    pure Python, allowing for near-infinite extendability.
 
+** [[https://github.com/radare/radare2][radare/radare2: unix-like reverse engineering framework and commandline tools]]
+   :PROPERTIES:
+   :CREATED:  [2016-05-10 Tue 17:37]
+   :END:
+
+   r2 is a rewrite from scratch of radare in order to provide a set of libraries
+   and tools to work with binary files.
+
+   Radare project started as a forensics tool, a scriptable commandline
+   hexadecimal editor able to open disk files, but later support for analyzing
+   binaries, disassembling code, debugging programs, attaching to remote gdb
+   servers
+

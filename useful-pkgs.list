@@ -504,3 +504,5 @@ pyinfra - state based and programmable server deployment tool
 debian-security-support - Debian security support coverage checker
 qtile - Small, simple, extensible X11 window manager written in Python
 mypy - Optional static typing for Python
+libreoffice-librelogo - Logo-like progamming language for LibreOffice
+mkdocs - Static site generator geared towards building project documentation
