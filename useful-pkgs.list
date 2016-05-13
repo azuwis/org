@@ -506,3 +506,7 @@ qtile - Small, simple, extensible X11 window manager written in Python
 mypy - Optional static typing for Python
 libreoffice-librelogo - Logo-like progamming language for LibreOffice
 mkdocs - Static site generator geared towards building project documentation
+hashcat - Advanced CPU-based password recovery utility
+open-infrastructure-system-build - System Image Build Tool
+whalebuilder - Debian package builder using Docker
+zfs-dkms - OpenZFS filesystem kernel modules for Linux
