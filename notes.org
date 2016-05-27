@@ -420,3 +420,12 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    binaries, disassembling code, debugging programs, attaching to remote gdb
    servers
 
+** [[https://github.com/travisb-ca/nitpick][travisb-ca/nitpick: Distributed bug tracker built upon the project VCS]]
+   :PROPERTIES:
+   :CREATED:  [2016-05-27 Fri 10:11]
+   :END:
+
+   Nitpick is a distributed issue tracker. It helps keep track of which nits you
+   should pick. It's intended to be used with source code such that the issues
+   can follow the code via whatever VCS or distribution mechanism.
+
