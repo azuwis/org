@@ -519,3 +519,5 @@ pygtail - read log file lines that have not been read
 xdo - small console-based utility to perform elementary actions on windows
 kubernetes-master - Kubernetes services for master host
 codequery - code-understanding, code-browsing or code-search tool
+diceware - Create passphrases using an ordinary dice as a hardware random number generator
+reniced - renice running processes based on regular expressions
