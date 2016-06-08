@@ -4,6 +4,9 @@
 
 systemd-tmpfiles /usr/lib/tmpfiles.d
 
+** Android Studio
+*** File -> Settings -> Editor -> General -> Other -> Ensure line feed at file end on Save
+
 * Bookmarks
 
 ** [[http://shapecatcher.com/][Shapecatcher: Draw the Unicode character you want!]] :unicode:symbol:
