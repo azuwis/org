@@ -526,3 +526,4 @@ vmg - Virtual Magnifying Glass
 xorgxrdp - Remote Desktop Protocol (RDP) modules for X.org
 googler - Gooler is a power tool to Google Site Search from the terminal
 lemonldap-ng - OpenID-Connect, CAS and SAML compatible Web-SSO system
+xonsh - Python-ish, BASHwards looking shell
