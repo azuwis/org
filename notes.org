@@ -432,3 +432,55 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    should pick. It's intended to be used with source code such that the issues
    can follow the code via whatever VCS or distribution mechanism.
 
+** [[https://github.com/nhachicha/SnappyDB#cookbook][nhachicha/SnappyDB: A key-value database for Android]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-14 Tue 10:08]
+   :END:
+
+   SnappyDB is a key-value database for Android it's an alternative for SQLite
+   if you want to use a NoSQL approach.
+
+   It allows you to store and get primitive types, but also a Serializable
+   object or array in a type-safe way.
+
+** [[https://github.com/andlabs/libui][andlabs/libui: Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-14 Tue 10:26]
+   :END:
+
+   Simple and portable (but not inflexible) GUI library in C that uses the
+   native GUI technologies of each platform it supports.
+
+** [[https://github.com/skylot/jadx][skylot/jadx: Dex to Java decompiler]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-14 Tue 14:47]
+   :END:
+
+   jadx - Dex to Java decompiler
+
+   Command line and GUI tools for produce Java source code from Android Dex and
+   Apk files
+
+** [[https://bbs.archlinux.org/viewtopic.php?id=205147&p=25][Dell XPS 13 9350 Late 2015 (Page 25) / Laptop Issues / Arch Linux Forums]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-17 Fri 10:49]
+   :END:
+
+   Not sure if this has been discussed here before, but it is quite easy to
+   increase the timeout of the keyboard illumination. It was driving me crazy
+   smile
+
+   Install the libsmbios package, then:
+
+   To get current status:
+
+       smbios-keyboard-ctl --get-status
+
+   To get capabilities:
+
+       smbios-keyboard-ctl -i
+
+   To set illumination timeout to 30 minutes:
+
+       smbios-keyboard-ctl --set-timeout 30m
+
