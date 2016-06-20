@@ -529,3 +529,7 @@ lemonldap-ng - OpenID-Connect, CAS and SAML compatible Web-SSO system
 xonsh - Python-ish, BASHwards looking shell
 growl-for-linux - Pluggable notification system which supports GNTP
 pgbackrest - Reliable PostgreSQL Backup & Restore
+agent-transfer - copy a secret key from GnuPG's gpg-agent to OpenSSH's ssh-agent
+logdata-anomaly-miner - This tool allows one to create log analysis pipelines
+refind - boot manager for EFI-based computers
+wait-for-it - script that will wait on the availability of a host and TCP port
