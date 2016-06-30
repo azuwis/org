@@ -484,3 +484,18 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
 
        smbios-keyboard-ctl --set-timeout 30m
 
+** [[https://github.com/proofit404/anaconda-mode/issues/114][can't start 'anaconda-mode' server · Issue #114 · proofit404/anaconda-mode]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-21 Tue 14:50]
+   :END:
+
+   I'm on Ubuntu 15.10 too. On a whim, I tried the following workaround:
+
+   mkdir -p ~/.emacs.d/.cache/anaconda-mode/0.1.1
+   sudo pip install -t ~/.emacs.d/.cache/anaconda-mode/0.1.1 anaconda_mode
+   sudo chown -R es:es ~/.emacs.d/.cache/anaconda-mode/0.1.1
+
+   (Of course change es:es to your username and group.)
+
+   All seems to work fine (maybe the sudo removes the --user flag, or something?).
+

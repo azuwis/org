@@ -533,3 +533,11 @@ agent-transfer - copy a secret key from GnuPG's gpg-agent to OpenSSH's ssh-agent
 logdata-anomaly-miner - This tool allows one to create log analysis pipelines
 refind - boot manager for EFI-based computers
 wait-for-it - script that will wait on the availability of a host and TCP port
+check-all-the-things - check all of the things!
+dq - DNS/DNSCurve query tool
+dublin-traceroute - NAT-aware multipath tracerouting tool
+licensecheck - simple license checker for source files
+mkalias - Bash alias management to facilitate alias creation
+profile-sync-daemon - Symlinks and syncs browser profile dirs into RAM
+subuser - Run programs on Linux with selectively restricted permissions
+syncthing - decentralized file synchronization
