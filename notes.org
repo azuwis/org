@@ -499,3 +499,11 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
 
    All seems to work fine (maybe the sudo removes the --user flag, or something?).
 
+** [[https://github.com/arturadib/strapdown][arturadib/strapdown: Instant and elegant Markdown documents in the browser]]
+   :PROPERTIES:
+   :CREATED:  [2016-06-30 Thu 14:40]
+   :END:
+
+   Strapdown.js makes it embarrassingly simple to create elegant Markdown
+   documents. No server-side compilation required.
+
