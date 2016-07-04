@@ -541,3 +541,8 @@ mkalias - Bash alias management to facilitate alias creation
 profile-sync-daemon - Symlinks and syncs browser profile dirs into RAM
 subuser - Run programs on Linux with selectively restricted permissions
 syncthing - decentralized file synchronization
+ring - Secure and distributed voice, video and chat platform - desktop client
+auto-apt-proxy - automatic detector of common APT proxy settings
+jupyter-qtconsole - Jupyter - Qt console (binaries)
+tasksh - shell command that wraps Taskwarrior commands
+wireguard-dkms - fast, modern, secure kernel VPN tunnel (DKMS version)
