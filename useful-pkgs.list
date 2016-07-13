@@ -546,3 +546,10 @@ auto-apt-proxy - automatic detector of common APT proxy settings
 jupyter-qtconsole - Jupyter - Qt console (binaries)
 tasksh - shell command that wraps Taskwarrior commands
 wireguard-dkms - fast, modern, secure kernel VPN tunnel (DKMS version)
+tio - simple TTY terminal I/O application
+irpas - Internetwork Routing Protocol Attack Suite
+pem - command line personal expense manager
+bugwarrior - Pull tickets from bug trackers into taskwarrior
+friendly-recovery - Make recovery boot mode more user-friendly
+staticsite - Static site generator
+xkcdpass - secure passphrase generator inspired by XKCD 936
