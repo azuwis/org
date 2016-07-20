@@ -556,3 +556,4 @@ xkcdpass - secure passphrase generator inspired by XKCD 936
 lepton - tool to compress JPEGs losslessly
 patator - Multi-purpose brute-forcer
 terminix - Tiling terminal emulator for GNOME
+mtail - Extract monitoring data from logs for collection in a timeseries database
