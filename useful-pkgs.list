@@ -557,3 +557,6 @@ lepton - tool to compress JPEGs losslessly
 patator - Multi-purpose brute-forcer
 terminix - Tiling terminal emulator for GNOME
 mtail - Extract monitoring data from logs for collection in a timeseries database
+bgpdump - Translate binary zebra/quagga/MRT files into readable output
+nsntrace - perform network trace of a single process by using network namespaces
+pypass - lightweight directory-based password manager in python
