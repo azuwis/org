@@ -561,3 +561,4 @@ bgpdump - Translate binary zebra/quagga/MRT files into readable output
 nsntrace - perform network trace of a single process by using network namespaces
 pypass - lightweight directory-based password manager in python
 porg - Package manager/organizer for software installed from source
+foodcritic - lint tool for chef cookbooks
