@@ -564,3 +564,4 @@ porg - Package manager/organizer for software installed from source
 foodcritic - lint tool for chef cookbooks
 lsm - Link connectivity monitor tool
 nageru - modern free software video mixer
+mini-buildd - minimal build daemon - daemon
