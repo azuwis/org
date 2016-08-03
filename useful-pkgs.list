@@ -565,3 +565,5 @@ foodcritic - lint tool for chef cookbooks
 lsm - Link connectivity monitor tool
 nageru - modern free software video mixer
 mini-buildd - minimal build daemon - daemon
+cdist - Usable Configuration Management System
+mergerfs - another FUSE union filesystem
