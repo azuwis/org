@@ -567,3 +567,5 @@ nageru - modern free software video mixer
 mini-buildd - minimal build daemon - daemon
 cdist - Usable Configuration Management System
 mergerfs - another FUSE union filesystem
+ncrack - High-speed network authentication cracking tool
+t50 - Multi-protocol packet injector tool
