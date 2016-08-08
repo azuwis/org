@@ -507,3 +507,13 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    Strapdown.js makes it embarrassingly simple to create elegant Markdown
    documents. No server-side compilation required.
 
+** [[https://forum.openwrt.org/viewtopic.php?id=63996][ZBT-WG3526 - gpio settings and adding support (Page 1) — Developers Only — OpenWrt]]
+   :PROPERTIES:
+   :CREATED:  [2016-08-07 Sun 21:15]
+   :END:
+
+   On mine, hold the reset button and plug it it (keeping reset pressed)
+
+   I get a recovey page (in chinese) on 192.168.1.1 you an upload new firmware
+   from there.
+

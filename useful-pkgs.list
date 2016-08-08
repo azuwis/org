@@ -569,3 +569,5 @@ cdist - Usable Configuration Management System
 mergerfs - another FUSE union filesystem
 ncrack - High-speed network authentication cracking tool
 t50 - Multi-protocol packet injector tool
+wfuzz - Web application bruteforcer
+yabar - modern and lightweight status bar for X window managers
