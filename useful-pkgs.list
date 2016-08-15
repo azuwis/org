@@ -571,3 +571,7 @@ ncrack - High-speed network authentication cracking tool
 t50 - Multi-protocol packet injector tool
 wfuzz - Web application bruteforcer
 yabar - modern and lightweight status bar for X window managers
+aptly-publisher - Tool for management of Aptly publishes
+nitroshare - Cross-platform network file transfer application
+consolation - linux console pointer support for copy-paste
+tinysshd - Tiny SSH server - daemon
