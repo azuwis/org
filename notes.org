@@ -6,6 +6,8 @@ systemd-tmpfiles /usr/lib/tmpfiles.d
 
 ** Android Studio
 *** File -> Settings -> Editor -> General -> Other -> Ensure line feed at file end on Save
+** Tweak android captive portal detection
+adb shell settings put global captive_portal_server google.cn
 
 * Bookmarks
 

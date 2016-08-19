@@ -575,3 +575,6 @@ aptly-publisher - Tool for management of Aptly publishes
 nitroshare - Cross-platform network file transfer application
 consolation - linux console pointer support for copy-paste
 tinysshd - Tiny SSH server - daemon
+ddcci-dkms - DDC/CI driver
+lego - Let's Encrypt client
+zplug - next-generation plugin manager for zsh
