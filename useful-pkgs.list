@@ -578,3 +578,4 @@ tinysshd - Tiny SSH server - daemon
 ddcci-dkms - DDC/CI driver
 lego - Let's Encrypt client
 zplug - next-generation plugin manager for zsh
+singularity-container - container platform focused on supporting "Mobility of Compute"
