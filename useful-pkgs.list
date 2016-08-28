@@ -582,3 +582,4 @@ singularity-container - container platform focused on supporting "Mobility of Co
 comitup - bootstrap Wifi using Wifi
 mkchromecast - cast your Linux audio to your Google Cast devices
 gifshuffle - Steganography program to gif images
+websploit - Web exploitation framework
