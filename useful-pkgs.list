@@ -584,3 +584,5 @@ mkchromecast - cast your Linux audio to your Google Cast devices
 gifshuffle - Steganography program to gif images
 websploit - Web exploitation framework
 colorized-logs - tools for consuming logs with ANSI color
+buku - Powerful command-line bookmark manager
+os-autoinst - automated testing of Operating Systems
