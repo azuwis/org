@@ -586,3 +586,4 @@ websploit - Web exploitation framework
 colorized-logs - tools for consuming logs with ANSI color
 buku - Powerful command-line bookmark manager
 os-autoinst - automated testing of Operating Systems
+uftp - Encrypted multicast file transfer program
