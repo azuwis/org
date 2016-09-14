@@ -588,3 +588,8 @@ buku - Powerful command-line bookmark manager
 os-autoinst - automated testing of Operating Systems
 uftp - Encrypted multicast file transfer program
 qalculate-gtk - Powerful and easy to use desktop calculator - GTK+ version
+dnsrecon - Powerful DNS enumeration script
+zstd - fast lossless compression algorithm -- CLI tool
+fwknop-server - FireWall KNock OPerator server side - C version
+request-tracker4 - extensible trouble-ticket tracking system
+svn2git - Ruby tool for migrating svn projects to git
