@@ -519,3 +519,12 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    I get a recovey page (in chinese) on 192.168.1.1 you an upload new firmware
    from there.
 
+** [[https://github.com/SolidZORO/zpix-pixel-font][SolidZORO/zpix-pixel-font: Zpix is a pixel font. Can be used in pixel and vector environment (preferably a multiple of 12), Zpix supports English, Japanese, Traditional Chinese and Simplified Chinese.]]
+   :PROPERTIES:
+   :CREATED:  [2016-09-14 Wed 22:47]
+   :END:
+   
+   Zpix is a pixel font. Can be used in pixel and vector environment (preferably
+   a multiple of 12), Zpix supports English, Japanese, Traditional Chinese and
+   Simplified Chinese.
+
