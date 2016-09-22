@@ -594,3 +594,4 @@ fwknop-server - FireWall KNock OPerator server side - C version
 request-tracker4 - extensible trouble-ticket tracking system
 svn2git - Ruby tool for migrating svn projects to git
 barman-cli - Client utilities for the integration of Barman in PostgreSQL clusters
+mkchromecast - Cast your Linux audio to your Google Cast devices
