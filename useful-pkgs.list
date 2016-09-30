@@ -595,3 +595,7 @@ request-tracker4 - extensible trouble-ticket tracking system
 svn2git - Ruby tool for migrating svn projects to git
 barman-cli - Client utilities for the integration of Barman in PostgreSQL clusters
 mkchromecast - Cast your Linux audio to your Google Cast devices
+bruteforce-salted-openssl - try to find the passphrase for files encrypted with OpenSSL
+mkosi - create legacy-free OS images
+cappuccino - utility to let your boss think that you're working hard
+hindsight - Light weight data processing infrastructure
