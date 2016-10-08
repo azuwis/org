@@ -600,3 +600,5 @@ mkosi - create legacy-free OS images
 cappuccino - utility to let your boss think that you're working hard
 hindsight - Light weight data processing infrastructure
 carettah - presentation tool that renders Markdown
+flent - FLExible Network Tester for bufferbloat testing and more
+cryfs - encrypt your files and store them in the cloud
