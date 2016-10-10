@@ -528,3 +528,34 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    a multiple of 12), Zpix supports English, Japanese, Traditional Chinese and
    Simplified Chinese.
 
+** [[https://sourceforge.net/p/xtables-addons/xtables-addons/ci/master/tree/extensions/libxt_SYSRQ.man][Xtables-addons / Git / {2e6fb7} /extensions/libxt_SYSRQ.man]]
+   :PROPERTIES:
+   :CREATED:  [2016-10-10 Mon 15:46]
+   :END:
+
+   The SYSRQ target allows to remotely trigger sysrq on the local machine over
+   the network. This can be useful when vital parts of the machine hang, for
+   example an oops in a filesystem causing locks to be not released and
+   processes to get stuck as a result
+
+** [[https://github.com/jd/sysrqd][jd/sysrqd: Linux SysRQ daemon]]
+   :PROPERTIES:
+   :CREATED:  [2016-10-10 Mon 15:47]
+   :END:
+
+   sysrqd is a small daemon intended to manage Linux SysRq over the network. Its
+   philosophy is to be very responsive under heavy load and to try to be somehow
+   reliable.
+
+** [[https://kernel.googlesource.com/pub/scm/linux/kernel/git/rt/linux-rt-devel/+/linux-4.4.y-rt-patches/patches/ping-sysrq.patch][patches/ping-sysrq.patch - pub/scm/linux/kernel/git/rt/linux-rt-devel - Git at Google]]
+   :PROPERTIES:
+   :CREATED:  [2016-10-10 Mon 15:53]
+   :END:
+
+   Enable network SysRq by writing a cookie to icmp_echo_sysrq, e.g.
+     echo 0x01020304 >/proc/sys/net/ipv4/icmp_echo_sysrq
+   Send an ICMP echo request with this pattern plus the particular
+   SysRq command key. Example:
+     # ping -c1 -s57 -p0102030468
+   will trigger the SysRq-H (help) command.
+
