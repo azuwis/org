@@ -559,3 +559,26 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
      # ping -c1 -s57 -p0102030468
    will trigger the SysRq-H (help) command.
 
+** [[https://github.com/aouyar/MAC-Telnet][aouyar/MAC-Telnet: Open source MAC Telnet client and server for connecting to Microtik RouterOS routers and Linux machines via MAC address. Based on the original work of haakonnessjoen (Håkon Nessjøen); added MAC SSH client and server functionality for tunneling SSH protocol in addition to implementing shell interface directly.]]
+   :PROPERTIES:
+   :CREATED:  [2016-10-10 Mon 16:57]
+   :END:
+
+   Open source MAC Telnet client and server for connecting to Microtik RouterOS
+   routers and Linux machines via MAC address. Based on the original work of
+   haakonnessjoen (Håkon Nessjøen); added MAC SSH client and server
+   functionality for tunneling SSH protocol in addition to implementing shell
+   interface directly.
+
+** [[https://www.vanheusden.com/tcpconsole/][tcpconsole]]
+   :PROPERTIES:
+   :CREATED:  [2016-10-11 Tue 08:02]
+   :END:
+
+   tcpconsole is an network emergency console for Linux (as it uses lowlevel
+   Linux specific systemcalls). When your system no longer responds to
+   ssh/telnet logins, you can still connect to tcpconsole (using standard
+   telnet) and get a screendump of the physical console, the process-list, do
+   'sysrq'-calls (for system debugging and crash recovery) and list the contents
+   of the Linux kernel message buffer (dmesg).
+
