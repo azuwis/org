@@ -1,5 +1,4 @@
-docs.ansible.com###menu-id > center > a[href^="http://www.ansible.com/docs-left"]
-docs.ansible.com##.DocSiteBanner
+docs.ansible.com###sideBanner > a[href^="http://www.ansible.com/docs-left"]
 en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
 tieba.baidu.com###guide_fc

@@ -603,3 +603,7 @@ carettah - presentation tool that renders Markdown
 flent - FLExible Network Tester for bufferbloat testing and more
 cryfs - encrypt your files and store them in the cloud
 mactelnet-server - Telnet daemon for accepting connections via MAC addresses
+dasher - graphical predictive text input system
+signapk - Command line tool for signing Android ZIP/JAR/APK
+cupp - generate dictionaries for attacks from personal data
+imgp - Superfast batch image resizer and rotator
