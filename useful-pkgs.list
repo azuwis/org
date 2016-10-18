@@ -607,3 +607,8 @@ dasher - graphical predictive text input system
 signapk - Command line tool for signing Android ZIP/JAR/APK
 cupp - generate dictionaries for attacks from personal data
 imgp - Superfast batch image resizer and rotator
+tigervnc-xorg-extension - X server vnc extension
+sicherboot - systemd-boot integration with UEFI secure boot support
+uftrace - Traces and analyzes execution of programs written in C/C++
+shim - boot loader to chain-load signed boot loaders under Secure Boot
+aws-shell - Interactive productivity booster for the AWS CLI
