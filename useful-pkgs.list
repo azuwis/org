@@ -612,3 +612,5 @@ sicherboot - systemd-boot integration with UEFI secure boot support
 uftrace - Traces and analyzes execution of programs written in C/C++
 shim - boot loader to chain-load signed boot loaders under Secure Boot
 aws-shell - Interactive productivity booster for the AWS CLI
+gitano - Git service manager
+qcachegrind - visualisation tool for the Valgrind profiler
