@@ -614,3 +614,4 @@ shim - boot loader to chain-load signed boot loaders under Secure Boot
 aws-shell - Interactive productivity booster for the AWS CLI
 gitano - Git service manager
 qcachegrind - visualisation tool for the Valgrind profiler
+chezdav - simple tool to share a directory with WebDAV
