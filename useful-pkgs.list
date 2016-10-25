@@ -615,3 +615,5 @@ aws-shell - Interactive productivity booster for the AWS CLI
 gitano - Git service manager
 qcachegrind - visualisation tool for the Valgrind profiler
 chezdav - simple tool to share a directory with WebDAV
+iwatch - realtime filesystem monitoring program using inotify
+phabricator - Software engineering platform
