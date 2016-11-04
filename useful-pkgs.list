@@ -618,3 +618,10 @@ chezdav - simple tool to share a directory with WebDAV
 iwatch - realtime filesystem monitoring program using inotify
 phabricator - Software engineering platform
 lecm - Let's Encrypt Certificate Manager
+onedrive - folder synchronization with OneDrive
+dummydroid - Register a GSF ID for mock-up Android devices
+xlax - send keyboard input to multiple X11 windows
+jdupes - identify and delete duplicate files
+winregfs - Windows registry FUSE filesystem
+keysafe - securely back up secret keys to cloud servers
+mdk3 - Wireless attack tool for IEEE 802.11 networks

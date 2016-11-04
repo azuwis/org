@@ -582,3 +582,13 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    'sysrq'-calls (for system debugging and crash recovery) and list the contents
    of the Linux kernel message buffer (dmesg).
 
+** [[http://www.onyxbits.de/raccoon][Raccoon - APK downloader | Onyxbits]]
+   :PROPERTIES:
+   :CREATED:  [2016-11-01 Tue 09:55]
+   :END:
+
+   Raccoon - APK downloader
+
+   Download apps directly from Google Play. Raccoon is the only APK Downloader
+   that also supports paid and large apps.
+
