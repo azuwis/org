@@ -625,3 +625,7 @@ jdupes - identify and delete duplicate files
 winregfs - Windows registry FUSE filesystem
 keysafe - securely back up secret keys to cloud servers
 mdk3 - Wireless attack tool for IEEE 802.11 networks
+dpdk - Data Plane Development Kit (runtime)
+gocryptfs - Encrypted overlay filesystem written in Go.
+goopg - GPG for Chromium Gmail
+pixiewps - Offline WPS bruteforce tool
