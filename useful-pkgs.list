@@ -629,3 +629,7 @@ dpdk - Data Plane Development Kit (runtime)
 gocryptfs - Encrypted overlay filesystem written in Go.
 goopg - GPG for Chromium Gmail
 pixiewps - Offline WPS bruteforce tool
+patat - Terminal-based presentations using Pandoc
+rozofs-storaged - RozoFS storage daemon
+bbqsql - SQL Injection Exploitation Tool
+s4cmd - Super Amazon S3 command line tool
