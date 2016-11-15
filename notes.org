@@ -592,3 +592,25 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    Download apps directly from Google Play. Raccoon is the only APK Downloader
    that also supports paid and large apps.
 
+** [[http://www.9bis.net/kitty/?page=Sessions%2520filter&zone=en][KiTTY - Sessions filter]]
+   :PROPERTIES:
+   :CREATED:  [2016-11-15 Tue 16:38]
+   :END:
+
+   KiTTY is a fork from version 0.67 of PuTTY.
+
+   The very first requested features:
+
+      Sessions filter
+      Portability
+      Shortcuts for pre-defined command
+      The session launcher
+      Automatic logon script
+      Automatic logon script with the RuTTY patch
+      URL hyperlinks 
+
+** [[http://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/][What comes after ‘iptables’? It’s successor, of course: `nftables` – Red Hat Developer Blog]]
+   :PROPERTIES:
+   :CREATED:  [2016-11-15 Tue 16:40]
+   :END:
+
