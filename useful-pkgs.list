@@ -635,3 +635,8 @@ bbqsql - SQL Injection Exploitation Tool
 s4cmd - Super Amazon S3 command line tool
 goiardi - Chef server written in Go
 simplescreenrecorder - Feature-rich screen recorder for X11 and OpenGL
+hdmi2usb-mode-switch - Configuration and firmware tool for HDMI2USB devices
+nixnote2 - Open Source Evernote client
+nuntius - share notifications from Android phone or tablet via Bluetooth or LAN
+rclone - rsync for commercial cloud storage
+tmux-plugin-manager - tmux plugin manager based on git
