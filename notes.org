@@ -614,3 +614,15 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    :CREATED:  [2016-11-15 Tue 16:40]
    :END:
 
+** [[https://www.kernel.org/pub/linux/utils/boot/dracut/dracut.html][dracut]]
+   :PROPERTIES:
+   :CREATED:  [2016-12-01 Thu 14:57]
+   :END:
+
+ ifname=<interface>:<MAC>
+
+     Assign network device name <interface> (ie "bootnet") to the NIC with MAC <MAC>.
+
+ rd.emergency=[reboot|poweroff|halt]
+
+    specify, what action to execute in case of a critical failure. rd.shell=0 also be specified. 

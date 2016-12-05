@@ -640,3 +640,6 @@ nixnote2 - Open Source Evernote client
 nuntius - share notifications from Android phone or tablet via Bluetooth or LAN
 rclone - rsync for commercial cloud storage
 tmux-plugin-manager - tmux plugin manager based on git
+flent - FLExible Network Tester for bufferbloat testing and more
+minicoredumper - generate minimal and customized core dump files on Linux
+multistrap - multiple repository bootstrap based on apt
