@@ -643,3 +643,5 @@ tmux-plugin-manager - tmux plugin manager based on git
 flent - FLExible Network Tester for bufferbloat testing and more
 minicoredumper - generate minimal and customized core dump files on Linux
 multistrap - multiple repository bootstrap based on apt
+dnss - Daemon for encapsulating DNS over HTTPS or GRPC
+itamae - Simple Configuration Management Tool
