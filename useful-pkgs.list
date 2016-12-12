@@ -645,3 +645,8 @@ minicoredumper - generate minimal and customized core dump files on Linux
 multistrap - multiple repository bootstrap based on apt
 dnss - Daemon for encapsulating DNS over HTTPS or GRPC
 itamae - Simple Configuration Management Tool
+apksigner - command line tool to sign and verify Android APKs
+cylc - Workflow scheduler
+dhcpcanon - DCHP IPv4 client anonymity profile implementation
+git-build-recipe - construct a Git branch from a recipe
+rng-tools5 - Daemon to use a Hardware TRNG
