@@ -650,3 +650,7 @@ cylc - Workflow scheduler
 dhcpcanon - DCHP IPv4 client anonymity profile implementation
 git-build-recipe - construct a Git branch from a recipe
 rng-tools5 - Daemon to use a Hardware TRNG
+freerdp2-shadow-x11 - FreeRDP x11 shadowing server
+pylama - code audit tool for Python in Python3
+netdata - real-time charts for system monitoring
+logwatch - log analyser with nice output written in Perl
