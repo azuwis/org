@@ -8,6 +8,8 @@ systemd-tmpfiles /usr/lib/tmpfiles.d
 *** File -> Settings -> Editor -> General -> Other -> Ensure line feed at file end on Save
 ** Tweak android captive portal detection
 adb shell settings put global captive_portal_server google.cn
+adb shell settings put global captive_portal_http_url http://google.cn/generate_204
+adb shell settings put global captive_portal_https_url https://google.cn/generate_204
 
 * Bookmarks
 
