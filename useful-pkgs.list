@@ -655,3 +655,5 @@ pylama - code audit tool for Python in Python3
 netdata - real-time charts for system monitoring
 logwatch - log analyser with nice output written in Perl
 spigot - Exact real calculator
+nitrokey-app - Application to manage the Nitrokey
+restic - backup program with multiple revisions, encryption and more
