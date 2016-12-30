@@ -657,3 +657,7 @@ logwatch - log analyser with nice output written in Perl
 spigot - Exact real calculator
 nitrokey-app - Application to manage the Nitrokey
 restic - backup program with multiple revisions, encryption and more
+kakoune - Vim-inspired, selection-oriented code editor
+ondir - Automate tasks specific to certain directories in the shell
+rear - Bare metal disaster recovery and system migration framework
+sidedoor - SSH connection daemon
