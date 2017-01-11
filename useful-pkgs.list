@@ -661,3 +661,5 @@ kakoune - Vim-inspired, selection-oriented code editor
 ondir - Automate tasks specific to certain directories in the shell
 rear - Bare metal disaster recovery and system migration framework
 sidedoor - SSH connection daemon
+phabricator - Software engineering platform
+env2 - convert environment variables between scripting languages

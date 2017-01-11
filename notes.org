@@ -628,3 +628,15 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
  rd.emergency=[reboot|poweroff|halt]
 
     specify, what action to execute in case of a critical failure. rd.shell=0 also be specified. 
+
+** [[https://jitsi.org/][jitsi.org | Jitsi]]
+   :PROPERTIES:
+   :CREATED:  [2017-01-09 Mon 10:30]
+   :END:
+
+ Jitsi - Open Source Video Calls and Chat
+
+ Secure video calls, conferencing, chat, desktop sharing, file transfer, support
+ for your favorite OS, and IM network. All this, and more, in Jitsi - the most
+ complete and advanced open source communicator.
+
