@@ -663,3 +663,7 @@ rear - Bare metal disaster recovery and system migration framework
 sidedoor - SSH connection daemon
 phabricator - Software engineering platform
 env2 - convert environment variables between scripting languages
+decopy - Automatic debian/copyright Generator
+bundlewrap - Decentralized configuration management system with Python
+duperemove - extent-based deduplicator for file systems
+acccheck - Password dictionary attack tool for SMB
