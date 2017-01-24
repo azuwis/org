@@ -667,3 +667,4 @@ decopy - Automatic debian/copyright Generator
 bundlewrap - Decentralized configuration management system with Python
 duperemove - extent-based deduplicator for file systems
 acccheck - Password dictionary attack tool for SMB
+stenographer - full-packet-capture utility -- server
