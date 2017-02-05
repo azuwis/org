@@ -668,3 +668,6 @@ bundlewrap - Decentralized configuration management system with Python
 duperemove - extent-based deduplicator for file systems
 acccheck - Password dictionary attack tool for SMB
 stenographer - full-packet-capture utility -- server
+schleuder - GPG-enabled mailing list manager with resending-capabilities
+ssh-audit - tool for ssh server auditing
+textql - execute SQL against structured text like CSV or TSV
