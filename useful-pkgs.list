@@ -671,3 +671,10 @@ stenographer - full-packet-capture utility -- server
 schleuder - GPG-enabled mailing list manager with resending-capabilities
 ssh-audit - tool for ssh server auditing
 textql - execute SQL against structured text like CSV or TSV
+dnsdiag - DNS request auditing toolset
+grr-server - incident response framework - server
+python-klaus - simple easy-to-set-up Git web viewer
+git-crecord - interactively select chunks to commit with Git
+quicktun - very simple, yet secure VPN software
+tpm2-tools - TPM 2.0 utilities
+rmlint - Extremely fast tool to remove filesystem lint
