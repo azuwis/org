@@ -648,3 +648,11 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    MUI is a lightweight CSS framework that follows Google's Material Design
    guidelines.
 
+** [[https://github.com/packpack/packpack][packpack/packpack: Simple building of RPMs & Debian packages from git repos]]
+   :PROPERTIES:
+   :CREATED:  [2017-02-17 Fri 16:41]
+   :END:
+
+   PackPack is a simple tool to build RPM and Debian packages from git
+   repositories
+
