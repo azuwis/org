@@ -678,3 +678,7 @@ git-crecord - interactively select chunks to commit with Git
 quicktun - very simple, yet secure VPN software
 tpm2-tools - TPM 2.0 utilities
 rmlint - Extremely fast tool to remove filesystem lint
+gitsome - Supercharged Git/Shell Autocompleter with GitHub Integration
+subuser - Run programs on Linux with selectively restricted permissions
+certspotter - Certificate Transparency Log Monitor
+tmuxp - tmux session manager
