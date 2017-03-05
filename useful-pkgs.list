@@ -683,3 +683,4 @@ subuser - Run programs on Linux with selectively restricted permissions
 certspotter - Certificate Transparency Log Monitor
 tmuxp - tmux session manager
 xserver-xspice - Xspice X server
+kanboard-cli - kanboard command line client
