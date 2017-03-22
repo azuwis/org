@@ -685,3 +685,5 @@ tmuxp - tmux session manager
 xserver-xspice - Xspice X server
 kanboard-cli - kanboard command line client
 android-sdk-helper - Helper tools for building Android apps using Debian's Android SDK
+janus - general purpose WebRTC gateway
+stressant - simple stress testing and burn-in tool
