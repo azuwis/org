@@ -687,3 +687,7 @@ kanboard-cli - kanboard command line client
 android-sdk-helper - Helper tools for building Android apps using Debian's Android SDK
 janus - general purpose WebRTC gateway
 stressant - simple stress testing and burn-in tool
+ssg-debian - SCAP Guides and benchmarks targeting Debian 8
+x2goserver - X2Go server daemon scripts
+cockpit - User interface for Linux servers
+catimg - fast image printing in to your terminal
