@@ -691,3 +691,6 @@ ssg-debian - SCAP Guides and benchmarks targeting Debian 8
 x2goserver - X2Go server daemon scripts
 cockpit - User interface for Linux servers
 catimg - fast image printing in to your terminal
+colorize - Colorizes text on terminal with ANSI escape sequences
+xwallpaper - utility for setting image files as X wallpaper
+wuzz - Interactive console tool for HTTP inspection
