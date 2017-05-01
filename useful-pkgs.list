@@ -695,3 +695,5 @@ colorize - Colorizes text on terminal with ANSI escape sequences
 xwallpaper - utility for setting image files as X wallpaper
 wuzz - Interactive console tool for HTTP inspection
 bpfcc-tools - tools for BPF Compiler Collection (BCC)
+bfs - Breadth-first version of find(1)
+sniproxy - Transparent TLS and HTTP layer 4 proxy with SNI support
