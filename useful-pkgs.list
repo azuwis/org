@@ -697,3 +697,5 @@ wuzz - Interactive console tool for HTTP inspection
 bpfcc-tools - tools for BPF Compiler Collection (BCC)
 bfs - Breadth-first version of find(1)
 sniproxy - Transparent TLS and HTTP layer 4 proxy with SNI support
+tuned - daemon for monitoring and adaptive tuning of system devices
+sqlmap - automatic SQL injection tool
