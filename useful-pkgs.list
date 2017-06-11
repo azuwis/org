@@ -700,3 +700,4 @@ sniproxy - Transparent TLS and HTTP layer 4 proxy with SNI support
 tuned - daemon for monitoring and adaptive tuning of system devices
 sqlmap - automatic SQL injection tool
 debug-me - secure remote debugging
+debuerreotype - reproducible, snapshot-based Debian rootfs builder
