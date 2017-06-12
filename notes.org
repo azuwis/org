@@ -656,3 +656,12 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    PackPack is a simple tool to build RPM and Debian packages from git
    repositories
 
+** [[https://www.zynamics.com/bindiff.html][BinDiff]]
+   :PROPERTIES:
+   :CREATED:  [2017-06-12 Mon 15:31]
+   :END:
+
+   BinDiff is a comparison tool for binary files, that assists vulnerability
+   researchers and engineers to quickly find differences and similarities in
+   disassembled code.
+
