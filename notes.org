@@ -2,398 +2,398 @@
 
 ** SystemD manage tmp files
 
-systemd-tmpfiles /usr/lib/tmpfiles.d
+   systemd-tmpfiles /usr/lib/tmpfiles.d
 
 ** Android Studio
 *** File -> Settings -> Editor -> General -> Other -> Ensure line feed at file end on Save
 ** Tweak android captive portal detection
-adb shell settings put global captive_portal_server google.cn
-adb shell settings put global captive_portal_http_url http://google.cn/generate_204
-adb shell settings put global captive_portal_https_url https://google.cn/generate_204
+   adb shell settings put global captive_portal_server google.cn
+   adb shell settings put global captive_portal_http_url http://google.cn/generate_204
+   adb shell settings put global captive_portal_https_url https://google.cn/generate_204
 
 * Bookmarks
 
 ** [[http://shapecatcher.com/][Shapecatcher: Draw the Unicode character you want!]] :unicode:symbol:
-:PROPERTIES:
-:CREATED: [2015-07-09 Thu 17:13]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-09 Thu 17:13]
+   :END:
 
-And let shapecatcher help you to find the most similar unicode characters!
+   And let shapecatcher help you to find the most similar unicode characters!
 
 ** [[https://github.com/theonewolf/TermRecord][theonewolf/TermRecord]] :terminal:
-:PROPERTIES:
-:CREATED: [2015-07-09 Thu 17:20]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-09 Thu 17:20]
+   :END:
 
-Terminal session recorder that outputs self-contained HTML
+   Terminal session recorder that outputs self-contained HTML
 
 ** [[https://www.yworks.com/en/products/yfiles/yed/][yEd - Graph Editor]]
-:PROPERTIES:
-:CREATED: [2015-07-10 Fri 17:37]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-10 Fri 17:37]
+   :END:
 
-yEd is a powerful desktop application that can be used to quickly and
-effectively generate high-quality diagrams.
+   yEd is a powerful desktop application that can be used to quickly and
+   effectively generate high-quality diagrams.
 
 ** [[https://lttng.org/][LTTng: an open source tracing framework for Linux]] :performance:
-:PROPERTIES:
-:CREATED: [2015-07-12 Sun 16:06]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-12 Sun 16:06]
+   :END:
 
 ** [[https://github.com/akiradeveloper/dm-writeboost/blob/master/doc/dm-writeboost-readme.txt][dm-writeboost/dm-writeboost-readme.txt at master · akiradeveloper/dm-writeboost]] :kernel:disk:cache:
-:PROPERTIES:
-:CREATED: [2015-07-12 Sun 21:57]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-12 Sun 21:57]
+   :END:
 
-dm-writeboost target provides block-level log-structured caching. All cache
-data, writes and reads, are written to the cache device in sequential manner.
+   dm-writeboost target provides block-level log-structured caching. All cache
+   data, writes and reads, are written to the cache device in sequential manner.
 
-dm-writeboost controls three different layers - RAM buffer (rambuf), cache
-device (cache_dev, e.g SSD) and backing device (backing_dev, e.g. HDD). All data
-are first stored in the RAM buffer and when the RAM buffer is full,
-dm-writeboost adds metadata block (with checksum) on the RAM buffer to create a
-"log". Afterward, the log is written to the cache device as background
-processing in sequential manner and thereafter it's written back to the backing
-device in background as well.
+   dm-writeboost controls three different layers - RAM buffer (rambuf), cache
+   device (cache_dev, e.g SSD) and backing device (backing_dev, e.g. HDD). All data
+   are first stored in the RAM buffer and when the RAM buffer is full,
+   dm-writeboost adds metadata block (with checksum) on the RAM buffer to create a
+   "log". Afterward, the log is written to the cache device as background
+   processing in sequential manner and thereafter it's written back to the backing
+   device in background as well.
 
 ** [[http://prometheus.io/][Prometheus]] :monitoring:
-:PROPERTIES:
-:CREATED: [2015-07-12 Sun 22:47]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-12 Sun 22:47]
+   :END:
 
-An open-source service monitoring system and time series database.
+   An open-source service monitoring system and time series database.
 
 ** [[http://artofmonitoring.com/][The Art of Monitoring]]
-:PROPERTIES:
-:CREATED: [2015-07-13 Mon 17:15]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-13 Mon 17:15]
+   :END:
 
-A simple hands-on introductory book on the art of modern infrastructure
-monitoring and metrics.
+   A simple hands-on introductory book on the art of modern infrastructure
+   monitoring and metrics.
 
 ** [[https://conemu.github.io/][ConEmu - Handy Windows Terminal]] :windows:
-:PROPERTIES:
-:CREATED: [2015-07-14 Tue 16:59]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-14 Tue 16:59]
+   :END:
 
-ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple
-consoles and simple GUI applications as one customizable GUI window with various
-features.
+   ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple
+   consoles and simple GUI applications as one customizable GUI window with various
+   features.
 
 ** [[https://babun.github.io/][Babun - a windows shell you will love!]]
-:PROPERTIES:
-:CREATED: [2015-07-15 Wed 15:07]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-15 Wed 15:07]
+   :END:
 
 ** [[http://forums.debian.net/viewtopic.php?f%3D10&t%3D122188][GRUB menu disappeared after booting Windows 8.1]]
-:PROPERTIES:
-:CREATED: [2015-07-15 Wed 15:37]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-15 Wed 15:37]
+   :END:
 
-#+BEGIN_SRC 
+   #+BEGIN_SRC 
 bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
-#+END_SRC
+   #+END_SRC
 
 ** [[https://landscape.io/][Landscape :: Hosted continuous Python code metrics]]
-:PROPERTIES:
-:CREATED: [2015-07-20 Mon 09:56]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-07-20 Mon 09:56]
+   :END:
 
-Landscape is an early warning system for your Python codebase
+   Landscape is an early warning system for your Python codebase
 
 ** [[https://code.google.com/p/firmware-mod-kit/][firmware-mod-kit - Modify firmware images without recompiling! - Google Project Hosting]]
-:PROPERTIES:
-:CREATED: [2015-08-12 Wed 10:04]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-08-12 Wed 10:04]
+   :END:
 
-This kit is a collection of scripts and utilities to extract and rebuild linux based firmware images.
+   This kit is a collection of scripts and utilities to extract and rebuild linux based firmware images.
 
 ** [[https://icomoon.io/][Icon Font & SVG Icon Sets ❍ IcoMoon]]
-:PROPERTIES:
-:CREATED: [2015-08-20 Thu 09:56]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-08-20 Thu 09:56]
+   :END:
 
-Custom built and crisp icon fonts, done right
+   Custom built and crisp icon fonts, done right
 
 ** [[https://dba.stackexchange.com/questions/27328/how-large-should-be-mysql-innodb-buffer-pool-size][innodb - How large should be mysql innodb_buffer_pool_size? - Database Administrators Stack Exchange]] :mysql:
-:PROPERTIES:
-:CREATED: [2015-09-16 Wed 17:38]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-09-16 Wed 17:38]
+   :END:
 
-Here is what you should do. First run this query
+   Here is what you should do. First run this query
 
-SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
-(SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
-FROM information_schema.tables WHERE engine='InnoDB') A;
+   SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
+   (SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
+   FROM information_schema.tables WHERE engine='InnoDB') A;
 
-This will give you the RIBPS, Recommended InnoDB Buffer Pool Size based on all InnoDB Data and Indexes with an additional 60%.
+   This will give you the RIBPS, Recommended InnoDB Buffer Pool Size based on all InnoDB Data and Indexes with an additional 60%.
 
-For Example
+   For Example
 
-mysql>     SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
-    ->     (SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
-    ->     FROM information_schema.tables WHERE engine='InnoDB') A;
-+-------+
-| RIBPS |
-+-------+
-|     8 |
-+-------+
-1 row in set (4.31 sec)
+   mysql>     SELECT CEILING(Total_InnoDB_Bytes*1.6/POWER(1024,3)) RIBPS FROM
+   ->     (SELECT SUM(data_length+index_length) Total_InnoDB_Bytes
+   ->     FROM information_schema.tables WHERE engine='InnoDB') A;
+   +-------+
+   | RIBPS |
+   +-------+
+   |     8 |
+   +-------+
+   1 row in set (4.31 sec)
 
-mysql>
+   mysql>
 
-With this output, you would set the following in /etc/my.cnf
+   With this output, you would set the following in /etc/my.cnf
 
-[mysqld]
-innodb_buffer_pool_size=8G
+   [mysqld]
+   innodb_buffer_pool_size=8G
 
-Next, service mysql restart
+   Next, service mysql restart
 
-After the restart, run mysql for a week or two. Then, run this query:
+   After the restart, run mysql for a week or two. Then, run this query:
 
-SELECT (PagesData*PageSize)/POWER(1024,3) DataGB FROM
-(SELECT variable_value PagesData
-FROM information_schema.global_status
-WHERE variable_name='Innodb_buffer_pool_pages_data') A,
-(SELECT variable_value PageSize
-FROM information_schema.global_status
-WHERE variable_name='Innodb_page_size') B;
+   SELECT (PagesData*PageSize)/POWER(1024,3) DataGB FROM
+   (SELECT variable_value PagesData
+   FROM information_schema.global_status
+   WHERE variable_name='Innodb_buffer_pool_pages_data') A,
+   (SELECT variable_value PageSize
+   FROM information_schema.global_status
+   WHERE variable_name='Innodb_page_size') B;
 
-This will give you how many actual pages of InnoDB data reside in the InnoDB Buffer Pool.
+   This will give you how many actual pages of InnoDB data reside in the InnoDB Buffer Pool.
 
 ** [[https://leucos.github.io/articles/transparent-vault-revisited/][Transparent encryption with ansible vault revisited – Random stuff]]
-:PROPERTIES:
-:CREATED: [2015-10-08 Thu 11:04]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-10-08 Thu 11:04]
+   :END:
 
 ** [[https://wiki.debian.org/SystemdSuspendSedation][SystemdSuspendSedation - Debian Wiki]]
-:PROPERTIES:
-:CREATED: [2015-12-28 Mon 17:10]
-:END:
+   :PROPERTIES:
+   :CREATED:  [2015-12-28 Mon 17:10]
+   :END:
 
-This page explains how to have a laptop first Suspend to RAM then after a some time save state to disk and power off completely.
+   This page explains how to have a laptop first Suspend to RAM then after a some time save state to disk and power off completely.
 
 ** [[https://glandium.org/blog/?p=3631][glandium.org » Blog Archive » SSH through jump hosts, revisited]]
    :PROPERTIES:
    :CREATED:  [2016-02-16 Tue 14:18]
    :END:
 
- SSH through jump hosts, revisited
+   SSH through jump hosts, revisited
 
- Close to 7 years ago, I wrote about SSH through jump hosts. Twice. While the method used back then still works, Openssh has grown an new option in version 5.3 that allows it to be simplified a bit, by not using nc.
+   Close to 7 years ago, I wrote about SSH through jump hosts. Twice. While the method used back then still works, Openssh has grown an new option in version 5.3 that allows it to be simplified a bit, by not using nc.
 
- So here is an updated rule, version 2016:
+   So here is an updated rule, version 2016:
 
-     Host *+*
-     ProxyCommand ssh -W $(echo %h | sed 's/^.*+//;s/^\([^:]*$\)/\1:22/') $(echo %h | sed 's/+[^+]*$//;s/\([^+%%]*\)%%\([^+]*\)$/\2 -l \1/;s/:\([^:+]*\)$/ -p \1/')
+   Host *+*
+   ProxyCommand ssh -W $(echo %h | sed 's/^.*+//;s/^\([^:]*$\)/\1:22/') $(echo %h | sed 's/+[^+]*$//;s/\([^+%%]*\)%%\([^+]*\)$/\2 -l \1/;s/:\([^:+]*\)$/ -p \1/')
 
- The syntax you can use to connect through jump hosts hasn’t changed compared to previous blog posts:
+   The syntax you can use to connect through jump hosts hasn’t changed compared to previous blog posts:
 
-     With one jump host:
+   With one jump host:
 
-         $ ssh login1%host1:port1+host2:port2 -l login2
+   $ ssh login1%host1:port1+host2:port2 -l login2
 
-     With two jump hosts:
+   With two jump hosts:
 
-         $ ssh login1%host1:port1+login2%host2:port2+host3:port3 -l login3
+   $ ssh login1%host1:port1+login2%host2:port2+host3:port3 -l login3
 
-     With three jump hosts:
+   With three jump hosts:
 
-         $ ssh login1%host1:port1+login2%host2:port2+login3%host3:port3+host4:port4 -l login4
+   $ ssh login1%host1:port1+login2%host2:port2+login3%host3:port3+host4:port4 -l login4
 
-     etc.
+   etc.
 
 ** [[https://unix.stackexchange.com/questions/58117/determine-xinput-device-manufacturer-and-model][xorg - Determine xinput device manufacturer and model? - Unix & Linux Stack Exchange]]
    :PROPERTIES:
    :CREATED:  [2016-02-19 Fri 14:39]
    :END:
 
- Device Product Name (Model)
+   Device Product Name (Model)
 
- Get the xinput device Product Name (or model) using xinput list. Example output might look something like this:
+   Get the xinput device Product Name (or model) using xinput list. Example output might look something like this:
 
- # xinput list
- ⎡ Virtual core pointer                      id=2  [master pointer  (3)]
- ⎜   ↳ Virtual core XTEST pointer                id=4  [slave  pointer  (2)]
- ⎜   ↳ ELAN Touchscreen                          id=10 [slave  pointer  (2)]
- ⎜   ↳ SynPS/2 Synaptics TouchPad                id=13 [slave  pointer  (2)]
- ⎜   ↳ Logitech Unifying Device. Wireless        id=16 [slave  pointer  (2)]
- ⎣ Virtual core keyboard                     id=3  [master keyboard (2)]
-     ↳ Virtual core XTEST keyboard               id=5  [slave  keyboard (3)]
-     ↳ Power Button                              id=6  [slave  keyboard (3)]
-     ↳ Video Bus                                 id=7  [slave  keyboard (3)]
-     ↳ AT Translated Set 2 keyboard              id=12 [slave  keyboard (3)]
+   # xinput list
+   ⎡ Virtual core pointer                      id=2  [master pointer  (3)]
+   ⎜   ↳ Virtual core XTEST pointer                id=4  [slave  pointer  (2)]
+   ⎜   ↳ ELAN Touchscreen                          id=10 [slave  pointer  (2)]
+   ⎜   ↳ SynPS/2 Synaptics TouchPad                id=13 [slave  pointer  (2)]
+   ⎜   ↳ Logitech Unifying Device. Wireless        id=16 [slave  pointer  (2)]
+   ⎣ Virtual core keyboard                     id=3  [master keyboard (2)]
+   ↳ Virtual core XTEST keyboard               id=5  [slave  keyboard (3)]
+   ↳ Power Button                              id=6  [slave  keyboard (3)]
+   ↳ Video Bus                                 id=7  [slave  keyboard (3)]
+   ↳ AT Translated Set 2 keyboard              id=12 [slave  keyboard (3)]
 
- In the above output, the model or product name for the Touchscreen device is "ELAN Touchscreen".
- Device Path (Node)
+   In the above output, the model or product name for the Touchscreen device is "ELAN Touchscreen".
+   Device Path (Node)
 
- To get the xinput device Vendor Name (or manufacturer), we need to know the device Path (also called Device Node) to query, and then ask udevadm info. You can get the path by listing the xinput properties for a device and finding the 'Device Node' value.
+   To get the xinput device Vendor Name (or manufacturer), we need to know the device Path (also called Device Node) to query, and then ask udevadm info. You can get the path by listing the xinput properties for a device and finding the 'Device Node' value.
 
- From our previous example the Device Node value for the Touchscreen, which says it has id=10, could be found like this:
+   From our previous example the Device Node value for the Touchscreen, which says it has id=10, could be found like this:
 
- # xinput list-props 10 | grep 'Device Node'
-     Device Node (253):    "/dev/input/event9"
+   # xinput list-props 10 | grep 'Device Node'
+   Device Node (253):    "/dev/input/event9"
 
- Device Vendor Name (Manufacturer)
+   Device Vendor Name (Manufacturer)
 
- Now we can get the xinput device Vendor Name (or manufacturer) by looking at the value for the VENDOR property returned by udevadm info for the device with our path name found above:
+   Now we can get the xinput device Vendor Name (or manufacturer) by looking at the value for the VENDOR property returned by udevadm info for the device with our path name found above:
 
- # udevadm info --query=property --name=/dev/input/event9 | grep 'VENDOR='
- ID_VENDOR=ELAN
+   # udevadm info --query=property --name=/dev/input/event9 | grep 'VENDOR='
+   ID_VENDOR=ELAN
 
- In the output above, the manufacturer or vendor name for the Touchscreen would be "ELAN".
- XOrg Configuration
+   In the output above, the manufacturer or vendor name for the Touchscreen would be "ELAN".
+   XOrg Configuration
 
- Putting it all together, we can create a new XOrg configuration InputClass Section to match specific device vendors, products or paths. Using our previous examples, this section matches any Touchscreen Product manufactured by the ELAN Vendor:
+   Putting it all together, we can create a new XOrg configuration InputClass Section to match specific device vendors, products or paths. Using our previous examples, this section matches any Touchscreen Product manufactured by the ELAN Vendor:
 
- Section "InputClass"
-     Identifier "elan touchscreen catchall"
-     MatchDevicePath "/dev/input/event*"
-     MatchProduct "Touchscreen"
-     MatchVendor "ELAN"
- EndSection
+   Section "InputClass"
+   Identifier "elan touchscreen catchall"
+   MatchDevicePath "/dev/input/event*"
+   MatchProduct "Touchscreen"
+   MatchVendor "ELAN"
+   EndSection
 
- Thanks to @Stéphane, @Daniel and @ManuelSchneid3r
+   Thanks to @Stéphane, @Daniel and @ManuelSchneid3r
 
 ** [[http://noone.org/blog/English/Computer/Debian/CoolTools/Showing%2520packages%2520newer%2520than%2520in%2520archive%2520with%2520aptitude.html][Blogging is futile — Showing packages newer than in archive with aptitude]]
    :PROPERTIES:
    :CREATED:  [2016-03-07 Mon 10:04]
    :END:
 
-And after some playing around I found the following working aptitude search
-term:
+   And after some playing around I found the following working aptitude search
+   term:
 
-    ~i ?any-version(!~O.) !~U !~o
+   ~i ?any-version(!~O.) !~U !~o
 
-This matches all packages which are installed and which have a version which has
-no origin, i.e. no associated APT repository. Since this also matches all hold
-packages as well as all packages not available in any archive, I use !~U !~o to
-exclude those packages from that list again.
+   This matches all packages which are installed and which have a version which has
+   no origin, i.e. no associated APT repository. Since this also matches all hold
+   packages as well as all packages not available in any archive, I use !~U !~o to
+   exclude those packages from that list again.
 
-Since nobody can remember that nor wants to type that everytime needed, I added
-the following alias to my setup:
+   Since nobody can remember that nor wants to type that everytime needed, I added
+   the following alias to my setup:
 
-    alias aptitude-newer-than-in-archive='aptitude -o "Aptitude::Pkg-Display-Limit=~i ?any-version(!~O.) !~U !~o"'
+   alias aptitude-newer-than-in-archive='aptitude -o "Aptitude::Pkg-Display-Limit=~i ?any-version(!~O.) !~U !~o"'
 
 ** [[https://github.com/nodejs/node-v0.x-archive/issues/3613][Connections closed by node stay permanently in FIN_WAIT2 · Issue #3613 · nodejs/node-v0.x-archive - Mozilla Firefox]]
    :PROPERTIES:
    :CREATED:  [2016-03-15 Tue 14:23]
    :END:
 
- "When programming sockets in C, it’s useful to know an important difference
- between the shutdown (either READ or WRITE) and close of a socket. Shutting
- down the socket will cause the connection to go into the FIN_WAIT2 state while
- the TCP/IP stack waits for the connection to be closed at the other end of the
- connection. But if the other side doesn’t shutdown/close the connection, then
- the connection will remain in the FIN_WAIT2 state indefinitly (assuming of
- course that your process hasn’t been terminated). If your process where to
- close the connection, rather than call shutdown on it, then the connection will
- fall into FIN_WAIT2 as before, however, the TCP/IP stack will time the
- connection out after a certain period."
+   "When programming sockets in C, it’s useful to know an important difference
+   between the shutdown (either READ or WRITE) and close of a socket. Shutting
+   down the socket will cause the connection to go into the FIN_WAIT2 state while
+   the TCP/IP stack waits for the connection to be closed at the other end of the
+   connection. But if the other side doesn’t shutdown/close the connection, then
+   the connection will remain in the FIN_WAIT2 state indefinitly (assuming of
+   course that your process hasn’t been terminated). If your process where to
+   close the connection, rather than call shutdown on it, then the connection will
+   fall into FIN_WAIT2 as before, however, the TCP/IP stack will time the
+   connection out after a certain period."
 
 ** [[https://bugs.mysql.com/bug.php?id=79185][MySQL Bugs: #79185: Innodb freeze running REPLACE statements - Mozilla Firefox]]
    :PROPERTIES:
    :CREATED:  [2016-03-18 Fri 15:11]
    :END:
 
- After upgrading from 5.5.44 to 5.5.46 we have found our database server
- repeatedly freezing.
+   After upgrading from 5.5.44 to 5.5.46 we have found our database server
+   repeatedly freezing.
 
 ** [[https://wiki.archlinux.org/index.php/GRUB/Tips_and_tricks#Boot_non-default_entry_only_once][GRUB/Tips and tricks - ArchWiki]]
    :PROPERTIES:
    :CREATED:  [2016-03-22 Tue 15:35]
    :END:
 
- Boot non-default entry only once
+   Boot non-default entry only once
 
- The command grub-reboot is very helpful to boot another entry than the default
- only once. GRUB loads the entry passed in the first command line argument, when
- the system is rebooted the next time. Most importantly GRUB returns to loading
- the default entry for all future booting.
+   The command grub-reboot is very helpful to boot another entry than the default
+   only once. GRUB loads the entry passed in the first command line argument, when
+   the system is rebooted the next time. Most importantly GRUB returns to loading
+   the default entry for all future booting.
 
 ** [[https://www.reddit.com/r/i3wm/comments/3y3nvp/bindkey_only_for_specific_windows/][Bindkey only for specific window(s) : i3wm]]
    :PROPERTIES:
    :CREATED:  [2016-03-19 Sat 08:53]
    :END:
 
- Starting with the next release of i3 (or the current development version - if
- you are feeling adventurous) the following construct should do the trick:
+   Starting with the next release of i3 (or the current development version - if
+   you are feeling adventurous) the following construct should do the trick:
 
-     bindsym Escape [con_id=__focused__ title="Messenger"] nop
+   bindsym Escape [con_id=__focused__ title="Messenger"] nop
 
- If multiple criteria are given, all of them have to match. In this case the
- con_id has to match the ID of the current window - meaning it matches only the
- focused window - and title has to match "Messenger".
+   If multiple criteria are given, all of them have to match. In this case the
+   con_id has to match the ID of the current window - meaning it matches only the
+   focused window - and title has to match "Messenger".
 
 ** [[http://www.openmediavault.org/about.html][About | Openmediavault]]
    :PROPERTIES:
    :CREATED:  [2016-03-29 Tue 11:17]
    :END:
 
- OpenMediaVault is the next generation network attached storage (NAS) solution
- based on Debian Linux.
+   OpenMediaVault is the next generation network attached storage (NAS) solution
+   based on Debian Linux.
 
 ** [[https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox][Browser Toolbox - Firefox Developer Tools | MDN]]
    :PROPERTIES:
    :CREATED:  [2016-04-10 Sun 00:47]
    :END:
 
- The Browser Toolbox enables you to debug add-ons and the browser's own
- JavaScript code rather than just web pages like the normal Toolbox. The Browser
- Toolbox's context is the whole browser rather than just single page on a single
- tab.
+   The Browser Toolbox enables you to debug add-ons and the browser's own
+   JavaScript code rather than just web pages like the normal Toolbox. The Browser
+   Toolbox's context is the whole browser rather than just single page on a single
+   tab.
 
- Open the Developer Tools Toolbox's Settings, go to the section "Advanced
- Settings", and check the settings "Enable browser chrome and add-on debugging
- toolboxes" and "Enable remote debugging".
+   Open the Developer Tools Toolbox's Settings, go to the section "Advanced
+   Settings", and check the settings "Enable browser chrome and add-on debugging
+   toolboxes" and "Enable remote debugging".
 
- From Firefox 39, you can also open it with the Ctrl + Alt +Shift + I key
- combination ( Cmd + Opt +Shift + I on a Mac).
+   From Firefox 39, you can also open it with the Ctrl + Alt +Shift + I key
+   combination ( Cmd + Opt +Shift + I on a Mac).
 
 ** [[http://jupyter.org/][Project Jupyter | Home]]
    :PROPERTIES:
    :CREATED:  [2016-04-10 Sun 09:15]
    :END:
 
- The Jupyter Notebook is a web application that allows you to create and share
- documents that contain live code, equations, visualizations and explanatory
- text. Uses include: data cleaning and transformation, numerical simulation,
- statistical modeling, machine learning and much more.
+   The Jupyter Notebook is a web application that allows you to create and share
+   documents that contain live code, equations, visualizations and explanatory
+   text. Uses include: data cleaning and transformation, numerical simulation,
+   statistical modeling, machine learning and much more.
 
 ** [[https://unbound.net/pipermail/unbound-users/2014-October/003583.html][{Unbound-users} Modifying answer with the Python API]]
    :PROPERTIES:
    :CREATED:  [2016-04-14 Thu 15:51]
    :END:
 
-In unbound.conf:
+   In unbound.conf:
 
-  private-address: ::/0
-  private-domain:  iptvf.jp
-  private-domain:  flets-east.jp
+   private-address: ::/0
+   private-domain:  iptvf.jp
+   private-domain:  flets-east.jp
 
-returns no AAAA unless query name is iptvf.jp or flets-east.jp.
+   returns no AAAA unless query name is iptvf.jp or flets-east.jp.
 
-Note that it also removes AAAA from IPv6(AAAA)-only domain name.
-This is slighly differs from BIND9's AAAA-filter's behavior.
+   Note that it also removes AAAA from IPv6(AAAA)-only domain name.
+   This is slighly differs from BIND9's AAAA-filter's behavior.
 
 ** [[http://openwisp.org/whatis.html][OpenWISP: OpenWRT Controller, public wifi, RADIUS, mesh networks]]
    :PROPERTIES:
    :CREATED:  [2016-04-14 Thu 16:26]
    :END:
 
- OpenWISP is a software platform that can be used to implement a complete Wi-Fi
- service.
+   OpenWISP is a software platform that can be used to implement a complete Wi-Fi
+   service.
 
 ** [[https://wiki.openwrt.org/doc/howto/sqm#a_little_about_tuning_sqm][Smart Queue Management (SQM) - Minimizing Bufferbloat {OpenWrt Wiki}]]
    :PROPERTIES:
    :CREATED:  [2016-04-24 Sun 01:02]
    :END:
 
- Bufferbloat is most evident when the link is heavily loaded. It causes bad
- performance for voice and video conversations, causes gamers to lag out, and
- generally makes people say, "The Internet is slow today."
+   Bufferbloat is most evident when the link is heavily loaded. It causes bad
+   performance for voice and video conversations, causes gamers to lag out, and
+   generally makes people say, "The Internet is slow today."
 
- The "luci-app-sqm" package of modern OpenWrt solves the problem of Bufferbloat.
+   The "luci-app-sqm" package of modern OpenWrt solves the problem of Bufferbloat.
 
 ** [[http://luci.subsignal.org/~jow/reghack/README.txt][Reghack]]
    :PROPERTIES:
@@ -478,15 +478,15 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
 
    To get current status:
 
-       smbios-keyboard-ctl --get-status
+   smbios-keyboard-ctl --get-status
 
    To get capabilities:
 
-       smbios-keyboard-ctl -i
+   smbios-keyboard-ctl -i
 
    To set illumination timeout to 30 minutes:
 
-       smbios-keyboard-ctl --set-timeout 30m
+   smbios-keyboard-ctl --set-timeout 30m
 
 ** [[https://github.com/proofit404/anaconda-mode/issues/114][can't start 'anaconda-mode' server · Issue #114 · proofit404/anaconda-mode]]
    :PROPERTIES:
@@ -555,10 +555,10 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    :END:
 
    Enable network SysRq by writing a cookie to icmp_echo_sysrq, e.g.
-     echo 0x01020304 >/proc/sys/net/ipv4/icmp_echo_sysrq
+   echo 0x01020304 >/proc/sys/net/ipv4/icmp_echo_sysrq
    Send an ICMP echo request with this pattern plus the particular
    SysRq command key. Example:
-     # ping -c1 -s57 -p0102030468
+   # ping -c1 -s57 -p0102030468
    will trigger the SysRq-H (help) command.
 
 ** [[https://github.com/aouyar/MAC-Telnet][aouyar/MAC-Telnet: Open source MAC Telnet client and server for connecting to Microtik RouterOS routers and Linux machines via MAC address. Based on the original work of haakonnessjoen (Håkon Nessjøen); added MAC SSH client and server functionality for tunneling SSH protocol in addition to implementing shell interface directly.]]
@@ -603,13 +603,13 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
 
    The very first requested features:
 
-      Sessions filter
-      Portability
-      Shortcuts for pre-defined command
-      The session launcher
-      Automatic logon script
-      Automatic logon script with the RuTTY patch
-      URL hyperlinks 
+   Sessions filter
+   Portability
+   Shortcuts for pre-defined command
+   The session launcher
+   Automatic logon script
+   Automatic logon script with the RuTTY patch
+   URL hyperlinks 
 
 ** [[http://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/][What comes after ‘iptables’? It’s successor, of course: `nftables` – Red Hat Developer Blog]]
    :PROPERTIES:
@@ -621,24 +621,24 @@ This is slighly differs from BIND9's AAAA-filter's behavior.
    :CREATED:  [2016-12-01 Thu 14:57]
    :END:
 
- ifname=<interface>:<MAC>
+   ifname=<interface>:<MAC>
 
-     Assign network device name <interface> (ie "bootnet") to the NIC with MAC <MAC>.
+   Assign network device name <interface> (ie "bootnet") to the NIC with MAC <MAC>.
 
- rd.emergency=[reboot|poweroff|halt]
+   rd.emergency=[reboot|poweroff|halt]
 
-    specify, what action to execute in case of a critical failure. rd.shell=0 also be specified. 
+   specify, what action to execute in case of a critical failure. rd.shell=0 also be specified.
 
 ** [[https://jitsi.org/][jitsi.org | Jitsi]]
    :PROPERTIES:
    :CREATED:  [2017-01-09 Mon 10:30]
    :END:
 
- Jitsi - Open Source Video Calls and Chat
+   Jitsi - Open Source Video Calls and Chat
 
- Secure video calls, conferencing, chat, desktop sharing, file transfer, support
- for your favorite OS, and IM network. All this, and more, in Jitsi - the most
- complete and advanced open source communicator.
+   Secure video calls, conferencing, chat, desktop sharing, file transfer, support
+   for your favorite OS, and IM network. All this, and more, in Jitsi - the most
+   complete and advanced open source communicator.
 
 ** [[https://github.com/muicss/mui][muicss/mui: Lightweight CSS framework]]
    :PROPERTIES:
