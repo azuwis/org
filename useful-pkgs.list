@@ -701,3 +701,6 @@ tuned - daemon for monitoring and adaptive tuning of system devices
 sqlmap - automatic SQL injection tool
 debug-me - secure remote debugging
 debuerreotype - reproducible, snapshot-based Debian rootfs builder
+dehydrated - ACME client implemented in Bash
+shelldap - shell-like interface for browsing LDAP servers and editing their content
+yadm - Yet Another Dotfiles Manager
