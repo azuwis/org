@@ -665,3 +665,10 @@ bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
    researchers and engineers to quickly find differences and similarities in
    disassembled code.
 
+** https://github.com/mzlogin/awesome-adb
+   :PROPERTIES:
+   :CREATED:  [2017-07-06 Thu 16:51]
+   :END:
+
+   ADB Usage Complete / ADB 用法大全
+
