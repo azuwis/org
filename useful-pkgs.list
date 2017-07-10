@@ -707,3 +707,4 @@ yadm - Yet Another Dotfiles Manager
 dnsvi - edit dynamic DNS zones using vi
 mkosi - create legacy-free OS images
 python-klaus - simple easy-to-set-up Git web viewer
+gitolite3 - SSH-based gatekeeper for git repositories (version 3)
