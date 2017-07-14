@@ -708,3 +708,4 @@ dnsvi - edit dynamic DNS zones using vi
 mkosi - create legacy-free OS images
 python-klaus - simple easy-to-set-up Git web viewer
 gitolite3 - SSH-based gatekeeper for git repositories (version 3)
+winff - graphical video and audio batch converter using ffmpeg or avconv
