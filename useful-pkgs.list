@@ -715,3 +715,4 @@ casync - content addressable data synchronizer
 hashcat - World's fastest and most advanced password recovery utility
 qdirstat - Qt-based directory statistics
 fastnetmon - fast DDoS analyzer with sflow/netflow/mirror support (community edition)
+farbfeld - lossless image format designed to be parsed and piped easily
