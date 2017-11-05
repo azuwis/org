@@ -720,3 +720,21 @@ libteam-utils - library for controlling team network device -- userspace utiliti
 bdfproxy - Patch binaries during download ala MITM
 glewlwyd - OAuth2 authentication server providing Json Web Tokens
 mediagoblin - web application for publishing all kinds of media
+dhcpig - DHCP exhaustion script using scapy network library
+pdd - Tiny date, time diff calculator
+runoverssh - Run commands over ssh in one or more hosts
+tomb - crypto undertaker
+vmtouch - Portable file system cache diagnostics and control
+nfs-ganesha - NFS server in User Space
+uprightdiff - examine differences between two images
+h2o - optimized HTTP/1.x, HTTP/2 server
+ddcutil - Control monitor settings
+i2p - Invisible Internet Project - anonymous network
+mailman3-core - Mailing list management system
+percol - interactive selection for UNIX pipes
+safeeyes - Protect your eyes from eye strain using this continuous breaks
+pk4 - avail the Debian source package producing the specified package
+kopano-core - Metapackage to install the Kopano Core stack
+s3cmd - command-line Amazon S3 client
+pdfsam - PDF Split and Merge
+xe - simple alternative to xargs and apply
