@@ -738,3 +738,14 @@ kopano-core - Metapackage to install the Kopano Core stack
 s3cmd - command-line Amazon S3 client
 pdfsam - PDF Split and Merge
 xe - simple alternative to xargs and apply
+dino-im - modern XMPP client
+lr - list files, recursively
+xssproxy - Forward freedesktop.org Idle Inhibition Service calls to Xss
+evqueue-agent - evQueue agent for managing remote tasks execution
+lttng-tools - LTTng control and utility programs
+tesseract-ocr-chi-sim-vert - tesseract-ocr language files for Chinese - Simplified (vertical)
+sikulix - IDE to develop SikuliX scripts
+elastalert - easy and flexible alerting with Elasticsearch
+earlyoom - Early OOM Daemon
+btrfsmaintenance - Automate btrfs maintenance tasks on mountpoints or directories
+storj - Command Line Tool for encrypted file transfer on the Storj network
