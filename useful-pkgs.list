@@ -749,3 +749,5 @@ elastalert - easy and flexible alerting with Elasticsearch
 earlyoom - Early OOM Daemon
 btrfsmaintenance - Automate btrfs maintenance tasks on mountpoints or directories
 storj - Command Line Tool for encrypted file transfer on the Storj network
+nheko - desktop IM client for the Matrix protocol
+apulse - PulseAudio emulation for ALSA
