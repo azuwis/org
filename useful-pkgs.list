@@ -751,3 +751,7 @@ btrfsmaintenance - Automate btrfs maintenance tasks on mountpoints or directorie
 storj - Command Line Tool for encrypted file transfer on the Storj network
 nheko - desktop IM client for the Matrix protocol
 apulse - PulseAudio emulation for ALSA
+gerbera - UPnP MediaServer
+keepassxc - Cross Platform Password Manager
+parlatype - Minimal audio player for manual speech transcription
+qutebrowser - Keyboard-focused web browser written in Python using PyQt5 and
