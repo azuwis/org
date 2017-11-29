@@ -755,3 +755,7 @@ gerbera - UPnP MediaServer
 keepassxc - Cross Platform Password Manager
 parlatype - Minimal audio player for manual speech transcription
 qutebrowser - Keyboard-focused web browser written in Python using PyQt5 and
+pid1 - signal handling and orphan reaping for Unix PID1 init processes
+fswatch - file change monitor based on inotify
+neomutt - command line mail reader based on Mutt, with added features
+fonts-noto-color-emoji - color emoji font from Google
