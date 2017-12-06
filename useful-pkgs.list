@@ -759,3 +759,5 @@ pid1 - signal handling and orphan reaping for Unix PID1 init processes
 fswatch - file change monitor based on inotify
 neomutt - command line mail reader based on Mutt, with added features
 fonts-noto-color-emoji - color emoji font from Google
+nq - Lightweight queue system
+mailman3 - Full Mailman3 mailing list management suite (metapackage)
