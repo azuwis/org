@@ -761,3 +761,4 @@ neomutt - command line mail reader based on Mutt, with added features
 fonts-noto-color-emoji - color emoji font from Google
 nq - Lightweight queue system
 mailman3 - Full Mailman3 mailing list management suite (metapackage)
+sreview-web - SReview webinterface
