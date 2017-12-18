@@ -762,3 +762,9 @@ fonts-noto-color-emoji - color emoji font from Google
 nq - Lightweight queue system
 mailman3 - Full Mailman3 mailing list management suite (metapackage)
 sreview-web - SReview webinterface
+tldr-py - Python client for tldr: simplified and community-driven man pages
+tpm2-pk11 - library for using the TPM 2.0 chip to secure SSH keys
+pragha - Lightweight Music Player
+formiko - reStructuredText and MarkDown editor and live previewer
+yazc - Command line tool for the libzc library
+autosuspend - daemon to suspend a system in case of inactivity
