@@ -768,3 +768,8 @@ pragha - Lightweight Music Player
 formiko - reStructuredText and MarkDown editor and live previewer
 yazc - Command line tool for the libzc library
 autosuspend - daemon to suspend a system in case of inactivity
+autorandr - Automatically select a display configuration for connected devices
+clevis - automated encryption framework
+extrace - trace exec() calls system-wide
+siridb-server - SiriDB time series database server
+photofilmstrip - Slideshow creator with Ken Burns effect
