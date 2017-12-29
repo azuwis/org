@@ -773,3 +773,5 @@ clevis - automated encryption framework
 extrace - trace exec() calls system-wide
 siridb-server - SiriDB time series database server
 photofilmstrip - Slideshow creator with Ken Burns effect
+pass-git-helper - Git credential helper interfacing with pass
+linux-show-player - Free cue player designed for sound-playback in stage productions
