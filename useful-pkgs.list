@@ -775,3 +775,18 @@ siridb-server - SiriDB time series database server
 photofilmstrip - Slideshow creator with Ken Burns effect
 pass-git-helper - Git credential helper interfacing with pass
 linux-show-player - Free cue player designed for sound-playback in stage productions
+proxychains4 - redirect connections through socks/http proxies
+rocksdb-tools - persistent Key-Value Store for Flash and RAM Storage (tools)
+btrfs-compsize - calculate compression ratio of a set of files on btrfs
+debian-dad - automated source package updater assistant
+gitea - Painless self-hosted git service
+snooze - run a command at a particular time
+wafw00f - identify and fingerprint Web Application Firewall products
+piu-piu - Horizontal scroller game in bash for cli.
+arch-test - detect architectures supported by your machine/kernel
+ignore-me - Generator for ignore files for autotools based projects
+memleax - debug a running process for memory leaks
+ums2net - USB Mass Storage to Network Proxy
+gitlint - Git commit message linter written in Python
+mblaze - UNIX utilities to deal with Maildir
+streamlink - CLI for extracting video streams from various websites to a video player
