@@ -790,3 +790,5 @@ ums2net - USB Mass Storage to Network Proxy
 gitlint - Git commit message linter written in Python
 mblaze - UNIX utilities to deal with Maildir
 streamlink - CLI for extracting video streams from various websites to a video player
+git-secret - store encrypted credential inside source code git repository
+multitime - time-like tool which does multiple runs
