@@ -792,3 +792,5 @@ mblaze - UNIX utilities to deal with Maildir
 streamlink - CLI for extracting video streams from various websites to a video player
 git-secret - store encrypted credential inside source code git repository
 multitime - time-like tool which does multiple runs
+csvkit - command-line tools for working with CSV
+spectre-meltdown-checker - Spectre & Meltdown vulnerability/mitigation checker
