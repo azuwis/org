@@ -794,3 +794,17 @@ git-secret - store encrypted credential inside source code git repository
 multitime - time-like tool which does multiple runs
 csvkit - command-line tools for working with CSV
 spectre-meltdown-checker - Spectre & Meltdown vulnerability/mitigation checker
+password-gorilla - cross-platform password manager
+ddupdate - Tool updating DNS data for dynamic IP addresses
+vmdb2 - creator of disk images with Debian installed
+alttab - task switcher for minimalistic WMs or standalone X session
+flameshot - Powerful yet simple-to-use screenshot software
+fonts-hack - Typeface designed for source code
+git-publish - git command to prepare and store patch revisions as git tags
+quaternion - desktop IM client for the Matrix protocol
+usbauth - USB firewall against BadUSB attacks
+undertime - pick a meeting time using a table of world clocks
+fonts-ubuntu - sans-serif font set from Ubuntu
+fonts-ubuntu-console - console version of the Ubuntu Mono font
+pipsi - pip script installer
+debos - Debian OS builder
