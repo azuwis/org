@@ -808,3 +808,4 @@ fonts-ubuntu - sans-serif font set from Ubuntu
 fonts-ubuntu-console - console version of the Ubuntu Mono font
 pipsi - pip script installer
 debos - Debian OS builder
+fonts-monoid - open source coding font with bitmap-like sharpness
