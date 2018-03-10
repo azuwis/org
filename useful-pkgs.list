@@ -810,3 +810,5 @@ pipsi - pip script installer
 debos - Debian OS builder
 fonts-monoid - open source coding font with bitmap-like sharpness
 urlwatch - tool for monitoring webpages for updates
+xcwd - print the current working directory of the focused window
+pass-extension-otp - pass extension for managing one-time-password tokens
