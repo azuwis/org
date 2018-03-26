@@ -817,3 +817,4 @@ iotjs - Javascript Framework for Internet of Things
 lexicon - CLI for manipulating DNS records on various DNS providers (Python 3)
 mailman3-full - Full Mailman3 mailing list management suite (metapackage)
 sbuild-debian-developer-setup - Convenience script to set up an sbuild environment for Debian Developers
+bundlewrap - Decentralized configuration management system with Python
