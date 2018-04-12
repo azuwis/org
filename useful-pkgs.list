@@ -819,3 +819,7 @@ mailman3-full - Full Mailman3 mailing list management suite (metapackage)
 sbuild-debian-developer-setup - Convenience script to set up an sbuild environment for Debian Developers
 bundlewrap - Decentralized configuration management system with Python
 tmuxp - tmux session manager
+sent - simple plaintext presentation tool
+snapserver - Snapcast server
+fscrypt - Tool for managing Linux filesystem encryption
+ncat - NMAP netcat reimplementation
