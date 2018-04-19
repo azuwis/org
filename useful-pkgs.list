@@ -823,3 +823,4 @@ sent - simple plaintext presentation tool
 snapserver - Snapcast server
 fscrypt - Tool for managing Linux filesystem encryption
 ncat - NMAP netcat reimplementation
+peek - Simple animated GIF screen recorder with GUI
