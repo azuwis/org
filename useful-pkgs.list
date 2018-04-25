@@ -824,3 +824,9 @@ snapserver - Snapcast server
 fscrypt - Tool for managing Linux filesystem encryption
 ncat - NMAP netcat reimplementation
 peek - Simple animated GIF screen recorder with GUI
+flif-tools - Free Lossless Image Format (FLIF) tools
+kitty - fast, featureful, GPU based terminal emulator
+rebound - Command-line tool to fetch Stack Overflow results when program execution error
+inxi - full featured system information script
+iwd - wireless daemon for Linux
+ccextractor - fast closed captions extractor for MPEG and H264 files
