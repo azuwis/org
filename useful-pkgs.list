@@ -830,3 +830,9 @@ rebound - Command-line tool to fetch Stack Overflow results when program executi
 inxi - full featured system information script
 iwd - wireless daemon for Linux
 ccextractor - fast closed captions extractor for MPEG and H264 files
+playerctl - utility to control media players via MPRIS
+tini - tiny but valid init for containers
+bmap-tools - tool to flash image files to block devices using the block map
+xorgxrdp - Remote Desktop Protocol (RDP) modules for X.org
+iptables-netflow-dkms - iptables target which generates netflows
+irqtop - Obeserve IRQ and SoftIRQ in a top-like fashion
