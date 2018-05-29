@@ -836,3 +836,15 @@ bmap-tools - tool to flash image files to block devices using the block map
 xorgxrdp - Remote Desktop Protocol (RDP) modules for X.org
 iptables-netflow-dkms - iptables target which generates netflows
 irqtop - Obeserve IRQ and SoftIRQ in a top-like fashion
+detachtty - Utility to connect to detached interactive programs
+groonga - Fulltext search engine (metapackage for library use)
+ssh-tools - collection of various tools using ssh
+vuls - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
+alice - Web browser (WebKit or Gecko) based IRC client
+sqlmap - automatic SQL injection tool
+mwic - spell-checker to find misspellings and to show their contexts
+smenu - curse-based CLI selection box
+gitless - version control system on top of Git
+tup - fast build system
+turing - assistant to learn algorithms and programming languages
+wig - WebApp Information Gatherer
