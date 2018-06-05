@@ -848,3 +848,6 @@ gitless - version control system on top of Git
 tup - fast build system
 turing - assistant to learn algorithms and programming languages
 wig - WebApp Information Gatherer
+morty - Privacy aware web content sanitizer proxy as a service
+watson - Helps you monitoring your time (Python 3)
+nftlb - nftables load balancer
