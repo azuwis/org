@@ -854,3 +854,14 @@ nftlb - nftables load balancer
 play.it - Installer for drm-free commercial games
 anbox - Android in a box
 intel-mkl - Intel® Math Kernel Library (Intel® MKL)
+ivulncheck-agent - reports cluster security vulnerabilities and fixes - Agent
+feedreader - simple client for online RSS services like tt-rss and others
+jp - command-line interface to JMESPath
+lektor - Python-based static website generator
+weevely - Stealth tiny web shell
+lektor - Python-based static website generator
+cbatticon - lightweight and fast battery icon status and more
+gamemode - Optimise Linux system performance on demand
+ipset-persistent - boot-time loader for netfilter rules, ipset plugin
+mariadb-backup - Backup tool for MariaDB server
+chafa - Image-to-text converter supporting a wide range of symbols, etc.
