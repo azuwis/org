@@ -865,3 +865,7 @@ gamemode - Optimise Linux system performance on demand
 ipset-persistent - boot-time loader for netfilter rules, ipset plugin
 mariadb-backup - Backup tool for MariaDB server
 chafa - Image-to-text converter supporting a wide range of symbols, etc.
+driverctl - Device driver control utility for Linux
+git-sizer - compute various size metrics for a Git repository
+usbtop - utility to show bandwidth on USB buses and devices
+lloconv - command line document converter using LibreOfficeKit
