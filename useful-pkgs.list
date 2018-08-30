@@ -869,3 +869,7 @@ driverctl - Device driver control utility for Linux
 git-sizer - compute various size metrics for a Git repository
 usbtop - utility to show bandwidth on USB buses and devices
 lloconv - command line document converter using LibreOfficeKit
+debspawn - Build in nspawn containers
+cockpit - User interface for Linux servers
+freediameter - Implementation of the freeDiameter protocol - metapackage
+webext-debianbuttons - Buttons for querying Debian-related pages with Firefox
