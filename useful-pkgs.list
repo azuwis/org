@@ -873,3 +873,6 @@ debspawn - Build in nspawn containers
 cockpit - User interface for Linux servers
 freediameter - Implementation of the freeDiameter protocol - metapackage
 webext-debianbuttons - Buttons for querying Debian-related pages with Firefox
+krop - tool to crop PDF files
+tootle - Mastodon client
+taptempo - command line tap tempo
