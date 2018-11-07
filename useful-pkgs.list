@@ -876,3 +876,14 @@ webext-debianbuttons - Buttons for querying Debian-related pages with Firefox
 krop - tool to crop PDF files
 tootle - Mastodon client
 taptempo - command line tap tempo
+vlc-plugin-bittorrent - Bittorrent plugin for VLC
+hub - make git easier with GitHub
+mmdebstrap - create a Debian chroot
+mat2 - Metadata anonymisation toolkit v2
+barrier - Share mouse, keyboard and clipboard over the network
+fd-find - Simple, fast and user-friendly alternative to find
+janus - general purpose WebRTC gateway
+wl-clipboard - command line interface to the wayland clipboard
+gokey - simple vaultless password manager in Go
+photoflare - Simple but powerful Image Editor
+qtox - Powerful Tox client that follows the Tox design guidelines
