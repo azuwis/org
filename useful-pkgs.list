@@ -887,3 +887,5 @@ wl-clipboard - command line interface to the wayland clipboard
 gokey - simple vaultless password manager in Go
 photoflare - Simple but powerful Image Editor
 qtox - Powerful Tox client that follows the Tox design guidelines
+ionit - Render configuration files from Jinja templates
+netconsole - Dynamically configure Linux netconsole
