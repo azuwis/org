@@ -889,3 +889,7 @@ photoflare - Simple but powerful Image Editor
 qtox - Powerful Tox client that follows the Tox design guidelines
 ionit - Render configuration files from Jinja templates
 netconsole - Dynamically configure Linux netconsole
+k2pdfopt - PDF Reflow tool
+qt5-style-kvantum - Kvantum style engine (binaries)
+ttygif - generate gif animations from ttyrec terminal recordings
+uwsc - Ulfius WebSocket Client
