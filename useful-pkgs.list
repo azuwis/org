@@ -893,3 +893,14 @@ k2pdfopt - PDF Reflow tool
 qt5-style-kvantum - Kvantum style engine (binaries)
 ttygif - generate gif animations from ttyrec terminal recordings
 uwsc - Ulfius WebSocket Client
+mypager - pager for MySQL/PostgreSQL command line clients
+ethflux - InfluxDB data gatherer for ethtool-style network interface information
+hexyl - Command-line hex viewer with colored output
+debian-cloud-images - tool used by the Debian Cloud Team to create official cloud images
+mdk4 - Wireless attack tool for IEEE 802.11 networks
+networkd-dispatcher - Dispatcher service for systemd-networkd connection status changes
+px - ps and top for human beings
+timeshift - System restore utility
+godot3 - Full 2D and 3D game engine with editor
+tzdiff - Show Timezone differences with local time in command-line interface
+simple-revision-control - single-file and single-user revision control system
