@@ -904,3 +904,9 @@ timeshift - System restore utility
 godot3 - Full 2D and 3D game engine with editor
 tzdiff - Show Timezone differences with local time in command-line interface
 simple-revision-control - single-file and single-user revision control system
+mender-client - Mender over-the-air software updater client.
+movim - decentralized social network fully based on XMPP
+intel-media-va-driver-non-free - VAAPI driver for the Intel GEN8+ Graphics family
+kickpass - simple password safe
+zsh-autosuggestions - Fish-like fast/unobtrusive autosuggestions for zsh
+manuskript - open-source tool for writers
