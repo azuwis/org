@@ -910,3 +910,5 @@ intel-media-va-driver-non-free - VAAPI driver for the Intel GEN8+ Graphics famil
 kickpass - simple password safe
 zsh-autosuggestions - Fish-like fast/unobtrusive autosuggestions for zsh
 manuskript - open-source tool for writers
+pipx - execute binaries from Python packages in isolated environments
+smbmap - handy SMB enumeration tool
