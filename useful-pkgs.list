@@ -912,3 +912,9 @@ zsh-autosuggestions - Fish-like fast/unobtrusive autosuggestions for zsh
 manuskript - open-source tool for writers
 pipx - execute binaries from Python packages in isolated environments
 smbmap - handy SMB enumeration tool
+futatabi - multicamera slow motion video server
+sshoot - manage multiple sshuttle VPN sessions
+ghostwriter - Distraction-free, themeable Markdown editor
+olive - Professional open-source NLE video editor
+termonad - terminal emulator configurable in Haskell
+freedombox - easy to manage, privacy oriented home server
