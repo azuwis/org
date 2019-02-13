@@ -924,3 +924,19 @@ git-secrets - Prevents accidental commits of credentials
 sandsifter - x86 processor fuzzer
 akira - user experience design tool
 logswan - fast Web log analyzer using probabilistic data structures
+hardening-runtime - Runtime hardening configuration files
+tuna - Application tuning GUI & command line utility
+nvtop - Interactive NVIDIA GPU process monitor
+clickhouse-server - column-oriented database system (server runner)
+looking-glass-client - Low latency KVM FrameRelay implementation for VGA Passthrough
+netdata-web - real-time performance monitoring (web)
+ptunnel-ng - Tunnel TCP connections over ICMP packets
+bpftrace - high-level tracing language for Linux eBPF
+ffcvt - ffmpeg convert wrapper tool
+frr - FRRouting suite of internet protocols (BGP, OSPF, IS-IS, ...)
+imediff - interactive full screen 2/3-way merge tool
+libvma - LD_PRELOAD-able library that boosts performance
+rclone - rsync for commercial cloud storage
+slowmovideo - create slow-motion videos from your footage
+sockperf - Network benchmarking utility for testing latency and throughput
+zsnapd-rcmd - Remote sshd command checker for ZFS Snapshot Daemon
