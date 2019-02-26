@@ -940,3 +940,4 @@ rclone - rsync for commercial cloud storage
 slowmovideo - create slow-motion videos from your footage
 sockperf - Network benchmarking utility for testing latency and throughput
 zsnapd-rcmd - Remote sshd command checker for ZFS Snapshot Daemon
+debrequest - tool to generate RFS and ITP requests mails
