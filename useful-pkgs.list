@@ -945,3 +945,4 @@ httpdirfs - filesystem client for HTTP directory listings
 lscolors - Colorize paths using the LS_COLORS environment variable
 pound - reverse proxy, load balancer and HTTPS front-end for Web servers
 silver-platter - automatically create merge proposals
+rear - Bare metal disaster recovery and system migration framework
