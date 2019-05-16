@@ -946,3 +946,6 @@ lscolors - Colorize paths using the LS_COLORS environment variable
 pound - reverse proxy, load balancer and HTTPS front-end for Web servers
 silver-platter - automatically create merge proposals
 rear - Bare metal disaster recovery and system migration framework
+redfishtool - redfish command-line client
+websocketd - Turn any program that uses STDIN/STDOUT into a WebSocket server
+dhcpoptinj - DHCP option injector
