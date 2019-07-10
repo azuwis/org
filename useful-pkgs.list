@@ -951,3 +951,4 @@ websocketd - Turn any program that uses STDIN/STDOUT into a WebSocket server
 dhcpoptinj - DHCP option injector
 netctl - Profile based systemd network management
 hcxdumptool - Small tool to capture packets from wlan devices
+nftlb - nftables load balancer
