@@ -960,3 +960,4 @@ faultstat - page fault monitoring tool
 uacme - Lightweight client for the RFC8555 ACMEv2 protocol
 ytcc - YouTube channel checker
 omnidb-server - Web tool for database management
+weasyprint - Document factory for creating PDF files from HTML
