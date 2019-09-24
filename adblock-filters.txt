@@ -3,4 +3,5 @@ en.wikipedia.org###centralNotice
 en.wikipedia.org###frbanner-main
 tieba.baidu.com###guide_fc
 www.hotslogs.com###advertisementBanner
+www.reddit.com###siteTable_organic
 ||translate.google.com^$domain=youku.com

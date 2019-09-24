@@ -961,3 +961,14 @@ uacme - Lightweight client for the RFC8555 ACMEv2 protocol
 ytcc - YouTube channel checker
 omnidb-server - Web tool for database management
 weasyprint - Document factory for creating PDF files from HTML
+performous-composer - song editor for creating (and converting) notes for music games
+android-file-transfer - reliable MTP client with minimalistic UI
+fonts-clear-sans - sharp on-screen sans-serif font
+hd-idle - Spin down idle [USB] hard disks
+wf-recorder - Utility program for screen recording of wlroots-based compositors
+xsecurelock - X11 screen lock utility with the primary goal of security
+sshesame - fake SSH server
+anacrolix-dms - Go UPnP DLNA Digital Media Server with basic video transcoding
+firmware-tomu - Bootloader for the EFM32HG Tomu Board
+minder - Mind-mapping application
+aobook - Aozora Bunko viewer
