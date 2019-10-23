@@ -671,4 +671,4 @@ bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi
    :END:
 
    ADB Usage Complete / ADB 用法大全
-
+** Managing Server Secrets at Scale with a Vaultless Password Manager https://www.usenix.org/conference/srecon17asia/program/presentation/korgachin

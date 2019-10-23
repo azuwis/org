@@ -972,3 +972,6 @@ anacrolix-dms - Go UPnP DLNA Digital Media Server with basic video transcoding
 firmware-tomu - Bootloader for the EFM32HG Tomu Board
 minder - Mind-mapping application
 aobook - Aozora Bunko viewer
+antimicro - GUI for mapping keyboard keys and mouse controls to a gamepad
+oomd - userspace Out-Of-Memory (OOM) killer for Linux systems
+ruby-invisible-captcha - Simple honeypot protection for RoR apps
