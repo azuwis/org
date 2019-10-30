@@ -975,3 +975,4 @@ aobook - Aozora Bunko viewer
 antimicro - GUI for mapping keyboard keys and mouse controls to a gamepad
 oomd - userspace Out-Of-Memory (OOM) killer for Linux systems
 ruby-invisible-captcha - Simple honeypot protection for RoR apps
+ltsp - Linux Terminal Server Project
