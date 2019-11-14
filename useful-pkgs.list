@@ -976,3 +976,14 @@ antimicro - GUI for mapping keyboard keys and mouse controls to a gamepad
 oomd - userspace Out-Of-Memory (OOM) killer for Linux systems
 ruby-invisible-captcha - Simple honeypot protection for RoR apps
 ltsp - Linux Terminal Server Project
+cpu-x - Tool that gathers information on CPU, motherboard and more
+dnsenum - tool to enumerate domain DNS information
+dropwatch - tool for detecting and diagnosing dropped network packets
+endlessh - SSH tarpit that slowly sends an endless connection banner
+git-quick-stats - simple and efficient way to access various statistics in git repository
+git-revise - handy git tool for doing efficient in-memory commit rebases & fixups
+gitbatch - Manage git repositories in one place
+hw-probe - Tool to check operability of computer hardware
+jailkit - tools to make chroot jails easily
+testinfra - server state testing framework based on pytest
+xhk - XLib halfkey implementation
