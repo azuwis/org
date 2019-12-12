@@ -988,3 +988,4 @@ jailkit - tools to make chroot jails easily
 testinfra - server state testing framework based on pytest
 xhk - XLib halfkey implementation
 extrepo - External repository manager
+dhall - configuration language guaranteed to terminate
