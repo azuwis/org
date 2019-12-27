@@ -989,3 +989,6 @@ testinfra - server state testing framework based on pytest
 xhk - XLib halfkey implementation
 extrepo - External repository manager
 dhall - configuration language guaranteed to terminate
+gitlabracadabra - Configure GitLab from a YAML file
+berrynet - deep learning gateway - meta package
+dnsmap - DNS domain name brute forcing tool
