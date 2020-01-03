@@ -992,3 +992,10 @@ dhall - configuration language guaranteed to terminate
 gitlabracadabra - Configure GitLab from a YAML file
 berrynet - deep learning gateway - meta package
 dnsmap - DNS domain name brute forcing tool
+paperwork-gtk - Paperwork is a personal document manager - GTK3 frontend
+pympress - simple and powerful dual-screen PDF reader
+scrcpy - Display and control your Android device
+micro - modern and intuitive terminal-based text editor
+qwertone - simple music synthesizer
+swupdate - Software update framework for embedded systems
+wofi - application launcher for wlroots based wayland compositors
