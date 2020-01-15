@@ -999,3 +999,5 @@ micro - modern and intuitive terminal-based text editor
 qwertone - simple music synthesizer
 swupdate - Software update framework for embedded systems
 wofi - application launcher for wlroots based wayland compositors
+axhttpd - Highly configurable client/server TLSv1.2 library (web server)
+badger - Fast key-value DB in Go.
