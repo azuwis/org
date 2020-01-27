@@ -1001,3 +1001,7 @@ swupdate - Software update framework for embedded systems
 wofi - application launcher for wlroots based wayland compositors
 axhttpd - Highly configurable client/server TLSv1.2 library (web server)
 badger - Fast key-value DB in Go.
+comskip - Commercial detector
+gfsecret - Tools to make secret sharing easier
+light - control display backlight controllers and LEDs
+wob - lightweight overlay volume/backlight/progress bar for wayland
