@@ -1005,3 +1005,9 @@ comskip - Commercial detector
 gfsecret - Tools to make secret sharing easier
 light - control display backlight controllers and LEDs
 wob - lightweight overlay volume/backlight/progress bar for wayland
+drawing - simple drawing application for the GNOME desktop
+hdrmerge - HDR exposure merging
+ministocks - minimalistic QT stock ticker for Linux
+retry - Retry a command until the command succeeds
+ffmpegfs - Fuse Multi Media Filesystem
+pagure - git-centered forge using pygit2
