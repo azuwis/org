@@ -1011,3 +1011,4 @@ ministocks - minimalistic QT stock ticker for Linux
 retry - Retry a command until the command succeeds
 ffmpegfs - Fuse Multi Media Filesystem
 pagure - git-centered forge using pygit2
+xow - Linux driver for the Xbox One wireless dongle
