@@ -1013,3 +1013,6 @@ ffmpegfs - Fuse Multi Media Filesystem
 pagure - git-centered forge using pygit2
 xow - Linux driver for the Xbox One wireless dongle
 cockpit - Web Console for Linux servers
+disk-filltest - Simple Tool to Detect Bad Disks by Filling with Random Data
+pebble - ACME (RFC 8555) test-only server
+wev - tool for debugging events on a Wayland window
