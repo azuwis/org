@@ -1016,3 +1016,7 @@ cockpit - Web Console for Linux servers
 disk-filltest - Simple Tool to Detect Bad Disks by Filling with Random Data
 pebble - ACME (RFC 8555) test-only server
 wev - tool for debugging events on a Wayland window
+authprogs - SSH Command Authenticator
+memo - unix-style note-taking software
+nmrpflash - firmware flash utility for Netgear devices
+pre-commit - Git pre-commit hook framework
