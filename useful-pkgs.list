@@ -1021,3 +1021,5 @@ memo - unix-style note-taking software
 nmrpflash - firmware flash utility for Netgear devices
 pre-commit - Git pre-commit hook framework
 nginx-confgen - nginx configuration file macro language and preprocessor
+nohang - sophisticated low memory handler for Linux
+netplan.io - YAML network configuration abstraction for various backends
