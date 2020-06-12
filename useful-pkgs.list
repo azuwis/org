@@ -1023,3 +1023,5 @@ pre-commit - Git pre-commit hook framework
 nginx-confgen - nginx configuration file macro language and preprocessor
 nohang - sophisticated low memory handler for Linux
 netplan.io - YAML network configuration abstraction for various backends
+ara-client - ARA Records Ansible - Client
+droidlysis - Property extractor for Android apps
