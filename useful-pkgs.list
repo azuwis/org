@@ -1025,3 +1025,7 @@ nohang - sophisticated low memory handler for Linux
 netplan.io - YAML network configuration abstraction for various backends
 ara-client - ARA Records Ansible - Client
 droidlysis - Property extractor for Android apps
+gztool - gzip-compressed file indexer
+bdebstrap - YAML config based multi-mirror Debian chroot creation tool
+rootlesskit - Linux-native "fake root" for rootless containers
+wifi-qr - WiFi Share and Connect with QR
