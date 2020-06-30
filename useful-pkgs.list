@@ -1031,3 +1031,6 @@ rootlesskit - Linux-native "fake root" for rootless containers
 wifi-qr - WiFi Share and Connect with QR
 v2ray - Command line tool for golang-v2ray-core
 zeek - passive network traffic analyzer
+aerc - The World's Best Email Client
+dpaste - Pastebin using OpenDHT distributed hash table
+packetsender - Network utility for sending and receiving TCP, UDP, SSL packets
