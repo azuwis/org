@@ -1034,3 +1034,9 @@ zeek - passive network traffic analyzer
 aerc - The World's Best Email Client
 dpaste - Pastebin using OpenDHT distributed hash table
 packetsender - Network utility for sending and receiving TCP, UDP, SSL packets
+malcontent - framework for parental control of applications
+mystiq - Powerful FFmpeg GUI front-end based on Qt5 and writed in C++
+picom - lightweight compositor for X11
+replaygain - Replay Gain volume normalization Python tools
+snapraid - backup program for disk arrays
+ugrep - Universal grep: ultra fast searcher of file systems, text and
