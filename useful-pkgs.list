@@ -1040,3 +1040,8 @@ picom - lightweight compositor for X11
 replaygain - Replay Gain volume normalization Python tools
 snapraid - backup program for disk arrays
 ugrep - Universal grep: ultra fast searcher of file systems, text and
+irecovery - Command line utility to communication with iOS recovery systems
+otpclient - Simple GTK+ software to generate OTPs (TOTP and HOTP)
+polyphone - cross-platform SoundFont editor
+shairplay - AirPort Express Server emulator
+nsntrace - perform network trace of a single process by using network namespaces
