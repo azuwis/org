@@ -1048,3 +1048,4 @@ nsntrace - perform network trace of a single process by using network namespaces
 crazydiskinfo - interactive TUI S.M.A.R.T viewer
 hachoir - Python framework to parse and edit binary files
 procdump - Utility to create core dumps based on performance triggers
+topplot - Munge logs from top in to useful graphs
