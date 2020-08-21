@@ -1049,3 +1049,9 @@ crazydiskinfo - interactive TUI S.M.A.R.T viewer
 hachoir - Python framework to parse and edit binary files
 procdump - Utility to create core dumps based on performance triggers
 topplot - Munge logs from top in to useful graphs
+cava - Console-based Audio Visualizer for Alsa
+jc - JSON CLI output utility
+unison-2.48 - file-synchronization tool for Unix and Windows
+microsocks - multithreaded, small, efficient SOCKS5 server.
+wlr-randr - Utility to manage outputs of a Wayland compositor
+hamster-time-tracker - time tracking application for GNOME
