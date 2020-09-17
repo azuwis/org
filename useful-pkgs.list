@@ -1056,3 +1056,4 @@ microsocks - multithreaded, small, efficient SOCKS5 server.
 wlr-randr - Utility to manage outputs of a Wayland compositor
 hamster-time-tracker - time tracking application for GNOME
 termtosvg - record terminal sessions as standalone SVG animations
+bookworm - Simple, focused eBook Reader
