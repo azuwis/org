@@ -1057,3 +1057,8 @@ wlr-randr - Utility to manage outputs of a Wayland compositor
 hamster-time-tracker - time tracking application for GNOME
 termtosvg - record terminal sessions as standalone SVG animations
 bookworm - Simple, focused eBook Reader
+smartdns - local DNS server to obtain the fastest IP for the best experience
+sslscan - Tests SSL/TLS enabled services to discover supported cipher suites
+foot - Fast, lightweight and minimalistic Wayland terminal emulator
+erfs - Client to use a free encrypted cloud based network file system
+glewlwyd - Single-Sign-On server with multiple factor authentication
