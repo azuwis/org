@@ -1062,3 +1062,14 @@ sslscan - Tests SSL/TLS enabled services to discover supported cipher suites
 foot - Fast, lightweight and minimalistic Wayland terminal emulator
 erfs - Client to use a free encrypted cloud based network file system
 glewlwyd - Single-Sign-On server with multiple factor authentication
+anymeal - Recipe management software
+idevicerestore - command-line application to restore firmware files to iOS devices
+zint-qt - Zint Barcode Studio, a QT frontend to zint
+bully - Implementation of the WPS brute force attack, written in C
+j2cli - Command line tool for templating in shell-scripts, leveraging
+kmon - Interactive kernel monitor that combines dmesg and kmod
+pup - command-line HTML processor
+tmate-ssh-server - terminal multiplexer with instant terminal sharing -- server
+zchunk - compress a file into independent chunks
+loudgain - ReplayGain 2.0 loudness normalizer based on the EBU R128 standard
+lookatme - interactive command-line presentation tool
