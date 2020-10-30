@@ -1073,3 +1073,4 @@ tmate-ssh-server - terminal multiplexer with instant terminal sharing -- server
 zchunk - compress a file into independent chunks
 loudgain - ReplayGain 2.0 loudness normalizer based on the EBU R128 standard
 lookatme - interactive command-line presentation tool
+chiaki - PlayStation 4 remote play client
