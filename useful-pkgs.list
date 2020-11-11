@@ -1076,3 +1076,4 @@ lookatme - interactive command-line presentation tool
 chiaki - PlayStation 4 remote play client
 odoo - Open Source Apps To Grow Your Business
 shaarli - Personal, minimalist, super-fast and no-database Delicious clone
+wtype - xdotool type for wayland
