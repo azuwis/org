@@ -1077,3 +1077,7 @@ chiaki - PlayStation 4 remote play client
 odoo - Open Source Apps To Grow Your Business
 shaarli - Personal, minimalist, super-fast and no-database Delicious clone
 wtype - xdotool type for wayland
+topydo - advanced todo.txt terminal utility for managing tasks
+hyperfine - Command-line benchmarking tool
+vorta - Desktop Client for Borg Backup
+pleaser - please, a polite, regex-first sudo clone
