@@ -1081,3 +1081,7 @@ topydo - advanced todo.txt terminal utility for managing tasks
 hyperfine - Command-line benchmarking tool
 vorta - Desktop Client for Borg Backup
 pleaser - please, a polite, regex-first sudo clone
+lutris - open source gaming platform
+makefile2graph - creates a graph of dependencies from GNU-Make
+umtp-responder - Lightweight USB Media Transfer Protocol (MTP) responder daemon
+age - simple, modern and secure encryption tool
