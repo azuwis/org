@@ -1085,3 +1085,14 @@ lutris - open source gaming platform
 makefile2graph - creates a graph of dependencies from GNU-Make
 umtp-responder - Lightweight USB Media Transfer Protocol (MTP) responder daemon
 age - simple, modern and secure encryption tool
+imvirt - detects several virtualizations
+kaidan - Simple and user-friendly Jabber/XMPP client
+tomboy-ng - Tomboy Notes rewritten to ease installation and cross platform
+victoria-metrics - fast, cost-effective and scalable time series database
+vast - network telemetry engine for data-driven security investigations
+etherdfs-server - Ethernet DOS File System server
+loggedfs - User-controllable logging file system
+laminar - lightweight and modular continuous integration service (metapackage)
+construct - homeserver for the Matrix protocol
+glowing-bear - Web frontend for the WeeChat IRC client
+jamulus - real-time collaborative music session client and server
