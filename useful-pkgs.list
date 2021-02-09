@@ -1096,3 +1096,8 @@ laminar - lightweight and modular continuous integration service (metapackage)
 construct - homeserver for the Matrix protocol
 glowing-bear - Web frontend for the WeeChat IRC client
 jamulus - real-time collaborative music session client and server
+graftcp - Redirect TCP connection to SOCKS5 or HTTP proxy
+syncplay - Synchronize playback of various video players via internet
+ustreamer - Lightweight and fast MJPG-HTTP streamer
+doas - minimal replacement for sudo
+reclass - hierarchical inventory backend for configuration management systems
