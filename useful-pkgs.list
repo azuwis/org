@@ -1101,3 +1101,13 @@ syncplay - Synchronize playback of various video players via internet
 ustreamer - Lightweight and fast MJPG-HTTP streamer
 doas - minimal replacement for sudo
 reclass - hierarchical inventory backend for configuration management systems
+iredis - CLI for Redis with auto-completion and syntax highlighting
+litecli - CLI for SQlite with auto-completion and syntax highlighting
+paperwork-gtk - Paperwork is a personal document manager - GTK3 frontend
+ttyd - Share your terminal over the web
+git-filter-repo - Quickly rewrite git repository history
+jgmenu - Simple X11 menu
+netproc - tool to monitor network usage by processes
+poke - Extensible editor for structured binary data
+urlextractor - Information gathering and website reconnaissance
+glewlwyd - Single-Sign-On server with multiple factor authentication
