@@ -1111,3 +1111,6 @@ netproc - tool to monitor network usage by processes
 poke - Extensible editor for structured binary data
 urlextractor - Information gathering and website reconnaissance
 glewlwyd - Single-Sign-On server with multiple factor authentication
+gsocket - Allows two machines on different networks to communicate with each other
+syncplay - Synchronize playback of various video players via internet
+timg - terminal image and video viewer
